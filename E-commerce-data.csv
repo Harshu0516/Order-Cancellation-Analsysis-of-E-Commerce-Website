@@ -1,0 +1,2017 @@
+Period,Payment,Channel,Dest Zone,Remarks,Count,State,Country
+Feb W1,COD,APP,EAST,Verified Orders,41387,ORISSA,India
+Feb W1,COD,APP,EAST,Verified Orders,42652,ORISSA,India
+Feb W1,COD,APP,EAST,Verified Orders,38427,WEST BENGAL,India
+Feb W1,COD,APP,EAST,Verified Orders,37933,WEST BENGAL,India
+Feb W1,COD,APP,METRO,Verified Orders,59200,DELHI,India
+Feb W1,COD,APP,METRO,Verified Orders,120188,DELHI,India
+Feb W1,COD,M-Site,METRO,Verified Orders,8237,GUJARAT,India
+Feb W1,COD,M-Site,METRO,Verified Orders,9593,GUJARAT,India
+Feb W1,COD,M-Site,METRO,Verified Orders,8238,HARYANA,India
+Feb W1,COD,M-Site,METRO,Verified Orders,9014,KARNATAKA,India
+Feb W1,COD,M-Site,METRO,Verified Orders,13354,MAHARASHTRA,India
+Feb W1,COD,M-Site,METRO,Verified Orders,24197,TAMIL NADU,India
+Feb W1,COD,PC,METRO,Verified Orders,6820,TELANGANA,India
+Feb W1,COD,PC,NE,Verified Orders,10307,ARUNACHAL PRADESH,India
+Feb W1,COD,PC,NE,Verified Orders,4011,ARUNACHAL PRADESH,India
+Feb W1,COD,PC,NE,Verified Orders,7634,ASSAM,India
+Feb W1,COD,PC,NE,Verified Orders,9434,ASSAM,India
+Feb W1,COD,PC,NE,Verified Orders,14671,MEGHALAYA,India
+Feb W1,STD,APP,NE,Verified Orders,10652,MIZORAM,India
+Feb W1,STD,APP,NE,Verified Orders,31252,MIZORAM,India
+Feb W1,STD,APP,NE,Verified Orders,5178,NAGALAND,India
+Feb W1,STD,APP,NE,Verified Orders,19827,NAGALAND,India
+Feb W1,STD,APP,NE,Verified Orders,17830,SIKKIM,India
+Feb W1,STD,APP,NE,Verified Orders,32354,TRIPURA,India
+Feb W1,STD,M-Site,NE,Verified Orders,1668,TRIPURA,India
+Feb W1,STD,M-Site,TIER 1,Verified Orders,5908,ANDHRA PRADESH,India
+Feb W1,STD,M-Site,TIER 1,Verified Orders,1057,GUJARAT,India
+Feb W1,STD,M-Site,TIER 1,Verified Orders,3542,GUJARAT,India
+Feb W1,STD,M-Site,TIER 1,Verified Orders,3232,KARNATAKA,India
+Feb W1,STD,M-Site,TIER 1,Verified Orders,5530,MADHYA PRADESH,India
+Feb W1,STD,PC,TIER 1,Verified Orders,4533,MAHARASHTRA,India
+Feb W1,STD,PC,TIER 1,Verified Orders,19946,PUNJAB,India
+Feb W1,STD,PC,TIER 1,Verified Orders,1560,PUNJAB,India
+Feb W1,STD,PC,TIER 1,Verified Orders,10283,RAJASTHAN,India
+Feb W1,STD,PC,TIER 1,Verified Orders,7179,RAJASTHAN,India
+Feb W1,STD,PC,TIER 1,Verified Orders,10783,TAMIL NADU,India
+Feb W2,COD,APP,TIER 2,Verified Orders,35635,ANDHRA PRADESH,India
+Feb W2,COD,APP,TIER 2,Verified Orders,35240,BIHAR,India
+Feb W2,COD,APP,TIER 2,Verified Orders,34962,GUJARAT,India
+Feb W2,COD,APP,TIER 2,Verified Orders,30985,GUJARAT,India
+Feb W2,COD,APP,TIER 2,Verified Orders,48689,HARYANA,India
+Feb W2,COD,APP,TIER 2,Verified Orders,112703,HIMACHAL PRADESH,India
+Feb W2,COD,M-Site,TIER 2,Verified Orders,7071,HIMACHAL PRADESH,India
+Feb W2,COD,M-Site,TIER 2,Verified Orders,8183,JHARKHAND,India
+Feb W2,COD,M-Site,TIER 2,Verified Orders,7135,KARNATAKA,India
+Feb W2,COD,M-Site,TIER 2,Verified Orders,7469,MADHYA PRADESH,India
+Feb W2,COD,M-Site,TIER 2,Verified Orders,10724,MADHYA PRADESH,India
+Feb W2,COD,M-Site,TIER 2,Verified Orders,23752,MAHARASHTRA,India
+Feb W2,COD,PC,TIER 2,Verified Orders,6240,MAHARASHTRA,India
+Feb W2,COD,PC,TIER 2,Verified Orders,8697,MAHARASHTRA,India
+Feb W2,COD,PC,TIER 2,Verified Orders,3588,PUNJAB,India
+Feb W2,COD,PC,TIER 2,Verified Orders,6262,PUNJAB,India
+Feb W2,COD,PC,TIER 2,Verified Orders,7397,RAJASTHAN,India
+Feb W2,COD,PC,TIER 2,Verified Orders,12722,RAJASTHAN,India
+Feb W2,STD,APP,TIER 2,Verified Orders,10828,TAMIL NADU,India
+Feb W2,STD,APP,TIER 2,Verified Orders,28450,TAMIL NADU,India
+Feb W2,STD,APP,TIER 2,Verified Orders,5299,UTTARAKHAND,India
+Feb W2,STD,APP,TIER 3,Verified Orders,18456,ANDHRA PRADESH,India
+Feb W2,STD,APP,TIER 3,Verified Orders,17369,ANDHRA PRADESH,India
+Feb W2,STD,APP,TIER 3,Verified Orders,31624,BIHAR,India
+Feb W2,STD,M-Site,TIER 3,Verified Orders,1626,BIHAR,India
+Feb W2,STD,M-Site,TIER 3,Verified Orders,4684,CHHATTISGARH,India
+Feb W2,STD,M-Site,TIER 3,Verified Orders,1028,GUJARAT,India
+Feb W2,STD,M-Site,TIER 3,Verified Orders,3135,GUJARAT,India
+Feb W2,STD,M-Site,TIER 3,Verified Orders,2996,HARYANA,India
+Feb W2,STD,M-Site,TIER 3,Verified Orders,5297,HIMACHAL PRADESH,India
+Feb W2,STD,PC,TIER 3,Verified Orders,4712,HIMACHAL PRADESH,India
+Feb W2,STD,PC,TIER 3,Verified Orders,17820,JAMMU & KASHMIR,India
+Feb W2,STD,PC,TIER 3,Verified Orders,1523,JAMMU & KASHMIR,India
+Feb W2,STD,PC,TIER 3,Verified Orders,9417,JHARKHAND,India
+Feb W2,STD,PC,TIER 3,Verified Orders,6822,KARNATAKA,India
+Feb W2,STD,PC,TIER 3,Verified Orders,9869,KARNATAKA,India
+Feb W3,COD,APP,TIER 3,Verified Orders,31255,MADHYA PRADESH,India
+Feb W3,COD,APP,TIER 3,Verified Orders,29343,MADHYA PRADESH,India
+Feb W3,COD,APP,TIER 3,Verified Orders,31759,MAHARASHTRA,India
+Feb W3,COD,APP,TIER 3,Verified Orders,27990,MAHARASHTRA,India
+Feb W3,COD,APP,TIER 3,Verified Orders,43001,MAHARASHTRA,India
+Feb W3,COD,APP,TIER 3,Verified Orders,102669,PUNJAB,India
+Feb W3,COD,M-Site,TIER 3,Verified Orders,6430,PUNJAB,India
+Feb W3,COD,M-Site,TIER 3,Verified Orders,7467,RAJASTHAN,India
+Feb W3,COD,M-Site,TIER 3,Verified Orders,6807,RAJASTHAN,India
+Feb W3,COD,M-Site,TIER 3,Verified Orders,6755,TAMIL NADU,India
+Feb W3,COD,M-Site,TIER 3,Verified Orders,10076,TAMIL NADU,India
+Feb W3,COD,M-Site,TIER 3,Verified Orders,21865,TELANGANA,India
+Feb W3,COD,PC,TIER 3,Verified Orders,5590,UTTAR PRADESH,India
+Feb W3,COD,PC,TIER 3,Verified Orders,7670,UTTAR PRADESH,India
+Feb W3,COD,PC,EAST,Verified Orders,3556,ORISSA,India
+Feb W3,COD,PC,EAST,Verified Orders,5884,ORISSA,India
+Feb W3,COD,PC,EAST,Verified Orders,6951,WEST BENGAL,India
+Feb W3,COD,PC,EAST,Verified Orders,12297,WEST BENGAL,India
+Feb W3,STD,APP,METRO,Verified Orders,9445,DELHI,India
+Feb W3,STD,APP,METRO,Verified Orders,24182,GUJARAT,India
+Feb W3,STD,APP,METRO,Verified Orders,5171,GUJARAT,India
+Feb W3,STD,APP,METRO,Verified Orders,16215,HARYANA,India
+Feb W3,STD,APP,METRO,Verified Orders,15171,KARNATAKA,India
+Feb W3,STD,APP,METRO,Verified Orders,28740,KARNATAKA,India
+Feb W3,STD,M-Site,METRO,Verified Orders,1537,MAHARASHTRA,India
+Feb W3,STD,M-Site,METRO,Verified Orders,4678,TAMIL NADU,India
+Feb W3,STD,M-Site,NE,Verified Orders,900,ARUNACHAL PRADESH,India
+Feb W3,STD,M-Site,NE,Verified Orders,2818,ARUNACHAL PRADESH,India
+Feb W3,STD,M-Site,NE,Verified Orders,2800,ASSAM,India
+Feb W3,STD,M-Site,NE,Verified Orders,5080,ASSAM,India
+Feb W3,STD,PC,NE,Verified Orders,3954,MIZORAM,India
+Feb W3,STD,PC,NE,Verified Orders,16884,MIZORAM,India
+Feb W3,STD,PC,NE,Verified Orders,1402,NAGALAND,India
+Feb W3,STD,PC,NE,Verified Orders,8515,NAGALAND,India
+Feb W3,STD,PC,NE,Verified Orders,6159,SIKKIM,India
+Feb W3,STD,PC,NE,Verified Orders,9220,TRIPURA,India
+Feb W4,COD,APP,NE,Verified Orders,34821,TRIPURA,India
+Feb W4,COD,APP,TIER 1,Verified Orders,31119,ANDHRA PRADESH,India
+Feb W4,COD,APP,TIER 1,Verified Orders,36013,GUJARAT,India
+Feb W4,COD,APP,TIER 1,Verified Orders,30765,GUJARAT,India
+Feb W4,COD,APP,TIER 1,Verified Orders,47214,HARYANA,India
+Feb W4,COD,APP,TIER 1,Verified Orders,112015,RAJASTHAN,India
+Feb W4,COD,M-Site,TIER 1,Verified Orders,7127,UTTARAKHAND,India
+Feb W4,COD,M-Site,TIER 2,Verified Orders,7460,BIHAR,India
+Feb W4,COD,M-Site,TIER 2,Verified Orders,7652,GOA,India
+Feb W4,COD,M-Site,TIER 2,Verified Orders,6936,GUJARAT,India
+Feb W4,COD,M-Site,TIER 2,Verified Orders,10642,HARYANA,India
+Feb W4,COD,M-Site,TIER 2,Verified Orders,23431,HIMACHAL PRADESH,India
+Feb W4,COD,PC,TIER 2,Verified Orders,5843,HIMACHAL PRADESH,India
+Feb W4,COD,PC,TIER 2,Verified Orders,7822,JHARKHAND,India
+Feb W4,COD,PC,TIER 2,Verified Orders,3537,MADHYA PRADESH,India
+Feb W4,COD,PC,TIER 2,Verified Orders,6489,MAHARASHTRA,India
+Feb W4,COD,PC,TIER 2,Verified Orders,7219,MAHARASHTRA,India
+Feb W4,COD,PC,TIER 2,Verified Orders,12360,MAHARASHTRA,India
+Feb W4,STD,APP,TIER 2,Verified Orders,8492,PUNJAB,India
+Feb W4,STD,APP,TIER 2,Verified Orders,21940,PUNJAB,India
+Feb W4,STD,APP,TIER 2,Verified Orders,4698,RAJASTHAN,India
+Feb W4,STD,APP,TIER 2,Verified Orders,13911,RAJASTHAN,India
+Feb W4,STD,APP,TIER 2,Verified Orders,13600,TAMIL NADU,India
+Feb W4,STD,APP,TIER 3,Verified Orders,25725,ANDHRA PRADESH,India
+Feb W4,STD,M-Site,TIER 3,Verified Orders,1416,BIHAR,India
+Feb W4,STD,M-Site,TIER 3,Verified Orders,4209,CHHATTISGARH,India
+Feb W4,STD,M-Site,TIER 3,Verified Orders,800,GUJARAT,India
+Feb W4,STD,M-Site,TIER 3,Verified Orders,2448,GUJARAT,India
+Feb W4,STD,M-Site,TIER 3,Verified Orders,2322,HIMACHAL PRADESH,India
+Feb W4,STD,M-Site,TIER 3,Verified Orders,4181,HIMACHAL PRADESH,India
+Feb W4,STD,PC,TIER 3,Verified Orders,3367,JAMMU & KASHMIR,India
+Feb W4,STD,PC,TIER 3,Verified Orders,13961,JAMMU & KASHMIR,India
+Feb W4,STD,PC,TIER 3,Verified Orders,1248,JHARKHAND,India
+Feb W4,STD,PC,TIER 3,Verified Orders,6970,KARNATAKA,India
+Feb W4,STD,PC,TIER 3,Verified Orders,4967,MADHYA PRADESH,India
+Feb W4,STD,PC,TIER 3,Verified Orders,7508,MADHYA PRADESH,India
+Jan W1,COD,APP,TIER 3,Verified Orders,70270,MAHARASHTRA,India
+Jan W1,COD,APP,TIER 3,Verified Orders,81370,MAHARASHTRA,India
+Jan W1,COD,APP,TIER 3,Verified Orders,54873,MAHARASHTRA,India
+Jan W1,COD,APP,TIER 3,Verified Orders,71205,PUNJAB,India
+Jan W1,COD,APP,TIER 3,Verified Orders,110404,PUNJAB,India
+Jan W1,COD,APP,TIER 3,Verified Orders,230039,RAJASTHAN,India
+Jan W1,COD,M-Site,TIER 3,Verified Orders,16052,RAJASTHAN,India
+Jan W1,COD,M-Site,TIER 3,Verified Orders,23032,TAMIL NADU,India
+Jan W1,COD,M-Site,TIER 3,Verified Orders,12643,TELANGANA,India
+Jan W1,COD,M-Site,TIER 3,Verified Orders,21070,UTTAR PRADESH,India
+Jan W1,COD,M-Site,TIER 3,Verified Orders,29304,UTTARAKHAND,India
+Jan W1,COD,M-Site,EAST,Verified Orders,53464,ORISSA,India
+Jan W1,COD,PC,EAST,Verified Orders,12435,WEST BENGAL,India
+Jan W1,COD,PC,EAST,Verified Orders,18914,WEST BENGAL,India
+Jan W1,COD,PC,METRO,Verified Orders,5363,DELHI,India
+Jan W1,COD,PC,METRO,Verified Orders,14446,DELHI,India
+Jan W1,COD,PC,METRO,Verified Orders,17105,GUJARAT,India
+Jan W1,COD,PC,METRO,Verified Orders,26855,GUJARAT,India
+Jan W1,STD,APP,METRO,Verified Orders,20002,HARYANA,India
+Jan W1,STD,APP,METRO,Verified Orders,64377,MAHARASHTRA,India
+Jan W1,STD,APP,NE,Verified Orders,7783,ARUNACHAL PRADESH,India
+Jan W1,STD,APP,NE,Verified Orders,41467,ASSAM,India
+Jan W1,STD,APP,NE,Verified Orders,37383,MEGHALAYA,India
+Jan W1,STD,APP,NE,Verified Orders,63725,MIZORAM,India
+Jan W1,STD,M-Site,NE,Verified Orders,3401,NAGALAND,India
+Jan W1,STD,M-Site,NE,Verified Orders,13173,TRIPURA,India
+Jan W1,STD,M-Site,TIER 1,Verified Orders,1640,GUJARAT,India
+Jan W1,STD,M-Site,TIER 1,Verified Orders,8169,PONDICHERRY,India
+Jan W1,STD,M-Site,TIER 2,Verified Orders,7388,BIHAR,India
+Jan W1,STD,M-Site,TIER 2,Verified Orders,11891,GUJARAT,India
+Jan W1,STD,PC,TIER 2,Verified Orders,10314,HIMACHAL PRADESH,India
+Jan W1,STD,PC,TIER 2,Verified Orders,47502,HIMACHAL PRADESH,India
+Jan W1,STD,PC,TIER 2,Verified Orders,2710,JHARKHAND,India
+Jan W1,STD,PC,TIER 2,Verified Orders,25168,MADHYA PRADESH,India
+Jan W1,STD,PC,TIER 2,Verified Orders,17364,MAHARASHTRA,India
+Jan W1,STD,PC,TIER 2,Verified Orders,23936,MAHARASHTRA,India
+Jan W2,COD,APP,TIER 2,Verified Orders,80532,MAHARASHTRA,India
+Jan W2,COD,APP,TIER 2,Verified Orders,91016,PUNJAB,India
+Jan W2,COD,APP,TIER 2,Verified Orders,54152,RAJASTHAN,India
+Jan W2,COD,APP,TIER 2,Verified Orders,81857,RAJASTHAN,India
+Jan W2,COD,APP,TIER 2,Verified Orders,120937,TAMIL NADU,India
+Jan W2,COD,APP,TIER 3,Verified Orders,226164,ANDHRA PRADESH,India
+Jan W2,COD,M-Site,TIER 3,Verified Orders,20033,ANDHRA PRADESH,India
+Jan W2,COD,M-Site,TIER 3,Verified Orders,28513,BIHAR,India
+Jan W2,COD,M-Site,TIER 3,Verified Orders,13186,CHHATTISGARH,India
+Jan W2,COD,M-Site,TIER 3,Verified Orders,25241,GUJARAT,India
+Jan W2,COD,M-Site,TIER 3,Verified Orders,35409,GUJARAT,India
+Jan W2,COD,M-Site,TIER 3,Verified Orders,58183,HIMACHAL PRADESH,India
+Jan W2,COD,PC,TIER 3,Verified Orders,16152,HIMACHAL PRADESH,India
+Jan W2,COD,PC,TIER 3,Verified Orders,23871,JAMMU & KASHMIR,India
+Jan W2,COD,PC,TIER 3,Verified Orders,5767,JAMMU & KASHMIR,India
+Jan W2,COD,PC,TIER 3,Verified Orders,17669,KARNATAKA,India
+Jan W2,COD,PC,TIER 3,Verified Orders,20133,MADHYA PRADESH,India
+Jan W2,COD,PC,TIER 3,Verified Orders,29516,MADHYA PRADESH,India
+Jan W2,STD,APP,TIER 3,Verified Orders,26597,MAHARASHTRA,India
+Jan W2,STD,APP,TIER 3,Verified Orders,93712,MAHARASHTRA,India
+Jan W2,STD,APP,TIER 3,Verified Orders,8964,MAHARASHTRA,India
+Jan W2,STD,APP,TIER 3,Verified Orders,58233,PUNJAB,India
+Jan W2,STD,APP,TIER 3,Verified Orders,48306,RAJASTHAN,India
+Jan W2,STD,APP,TIER 3,Verified Orders,76805,RAJASTHAN,India
+Jan W2,STD,M-Site,TIER 3,Verified Orders,4627,TAMIL NADU,India
+Jan W2,STD,M-Site,TIER 3,Verified Orders,18947,UTTAR PRADESH,India
+Jan W2,STD,M-Site,TIER 3,Verified Orders,2076,UTTAR PRADESH,India
+Jan W2,STD,M-Site,EAST,Verified Orders,11368,ORISSA,India
+Jan W2,STD,M-Site,EAST,Verified Orders,9694,WEST BENGAL,India
+Jan W2,STD,M-Site,METRO,Verified Orders,15338,DELHI,India
+Jan W2,STD,PC,METRO,Verified Orders,13640,DELHI,India
+Jan W2,STD,PC,METRO,Verified Orders,64928,GUJARAT,India
+Jan W2,STD,PC,METRO,Verified Orders,3351,GUJARAT,India
+Jan W2,STD,PC,METRO,Verified Orders,35060,HARYANA,India
+Jan W2,STD,PC,METRO,Verified Orders,22285,KARNATAKA,India
+Jan W2,STD,PC,METRO,Verified Orders,29671,KARNATAKA,India
+Jan W3,COD,APP,METRO,Verified Orders,68412,KARNATAKA,India
+Jan W3,COD,APP,METRO,Verified Orders,76386,MAHARASHTRA,India
+Jan W3,COD,APP,METRO,Verified Orders,55686,MAHARASHTRA,India
+Jan W3,COD,APP,METRO,Verified Orders,68510,TAMIL NADU,India
+Jan W3,COD,APP,METRO,Verified Orders,101211,TELANGANA,India
+Jan W3,COD,APP,METRO,Verified Orders,200068,TELANGANA,India
+Jan W3,COD,M-Site,NE,Verified Orders,17467,ARUNACHAL PRADESH,India
+Jan W3,COD,M-Site,NE,Verified Orders,23617,ASSAM,India
+Jan W3,COD,M-Site,NE,Verified Orders,13743,MANIPUR,India
+Jan W3,COD,M-Site,NE,Verified Orders,21096,MEGHALAYA,India
+Jan W3,COD,M-Site,NE,Verified Orders,30170,MIZORAM,India
+Jan W3,COD,M-Site,NE,Verified Orders,51995,NAGALAND,India
+Jan W3,COD,PC,NE,Verified Orders,13459,SIKKIM,India
+Jan W3,COD,PC,NE,Verified Orders,19695,SIKKIM,India
+Jan W3,COD,PC,NE,Verified Orders,5580,TRIPURA,India
+Jan W3,COD,PC,TIER 1,Verified Orders,14561,GUJARAT,India
+Jan W3,COD,PC,TIER 1,Verified Orders,16906,GUJARAT,India
+Jan W3,COD,PC,TIER 1,Verified Orders,26089,HARYANA,India
+Jan W3,STD,APP,TIER 1,Verified Orders,19504,KARNATAKA,India
+Jan W3,STD,APP,TIER 1,Verified Orders,63308,KERALA,India
+Jan W3,STD,APP,TIER 1,Verified Orders,7824,KERALA,India
+Jan W3,STD,APP,TIER 1,Verified Orders,39005,MAHARASHTRA,India
+Jan W3,STD,APP,TIER 1,Verified Orders,34772,RAJASTHAN,India
+Jan W3,STD,APP,TIER 1,Verified Orders,59144,UTTAR PRADESH,India
+Jan W3,STD,M-Site,TIER 2,Verified Orders,3560,ANDHRA PRADESH,India
+Jan W3,STD,M-Site,TIER 2,Verified Orders,12505,BIHAR,India
+Jan W3,STD,M-Site,TIER 2,Verified Orders,1836,GUJARAT,India
+Jan W3,STD,M-Site,TIER 2,Verified Orders,7912,GUJARAT,India
+Jan W3,STD,M-Site,TIER 2,Verified Orders,7224,HIMACHAL PRADESH,India
+Jan W3,STD,M-Site,TIER 2,Verified Orders,11971,HIMACHAL PRADESH,India
+Jan W3,STD,PC,TIER 2,Verified Orders,9848,JHARKHAND,India
+Jan W3,STD,PC,TIER 2,Verified Orders,44430,KERALA,India
+Jan W3,STD,PC,TIER 2,Verified Orders,2820,KERALA,India
+Jan W3,STD,PC,TIER 2,Verified Orders,24280,MADHYA PRADESH,India
+Jan W3,STD,PC,TIER 2,Verified Orders,15907,MADHYA PRADESH,India
+Jan W3,STD,PC,TIER 2,Verified Orders,22863,MAHARASHTRA,India
+Jan W4,COD,APP,TIER 2,Verified Orders,74262,MAHARASHTRA,India
+Jan W4,COD,APP,TIER 2,Verified Orders,91224,RAJASTHAN,India
+Jan W4,COD,APP,TIER 2,Verified Orders,66272,RAJASTHAN,India
+Jan W4,COD,APP,TIER 2,Verified Orders,70249,TAMIL NADU,India
+Jan W4,COD,APP,TIER 3,Verified Orders,106860,ANDAMAN & NICOBAR ISLANDS,India
+Jan W4,COD,APP,TIER 3,Verified Orders,217511,ANDAMAN & NICOBAR ISLANDS,India
+Jan W4,COD,M-Site,TIER 3,Verified Orders,15328,ANDHRA PRADESH,India
+Jan W4,COD,M-Site,TIER 3,Verified Orders,17520,BIHAR,India
+Jan W4,COD,M-Site,TIER 3,Verified Orders,13958,CHHATTISGARH,India
+Jan W4,COD,M-Site,TIER 3,Verified Orders,16538,GUJARAT,India
+Jan W4,COD,M-Site,TIER 3,Verified Orders,24352,GUJARAT,India
+Jan W4,COD,M-Site,TIER 3,Verified Orders,44291,HARYANA,India
+Jan W4,COD,PC,TIER 3,Verified Orders,12247,HIMACHAL PRADESH,India
+Jan W4,COD,PC,TIER 3,Verified Orders,17688,HIMACHAL PRADESH,India
+Jan W4,COD,PC,TIER 3,Verified Orders,6314,JAMMU & KASHMIR,India
+Jan W4,COD,PC,TIER 3,Verified Orders,13376,JAMMU & KASHMIR,India
+Jan W4,COD,PC,TIER 3,Verified Orders,15919,JHARKHAND,India
+Jan W4,COD,PC,TIER 3,Verified Orders,26015,KARNATAKA,India
+Jan W4,STD,APP,TIER 3,Verified Orders,19683,KERALA,India
+Jan W4,STD,APP,TIER 3,Verified Orders,70025,KERALA,India
+Jan W4,STD,APP,TIER 3,Verified Orders,8173,MADHYA PRADESH,India
+Jan W4,STD,APP,TIER 3,Verified Orders,41314,MADHYA PRADESH,India
+Jan W4,STD,APP,TIER 3,Verified Orders,35460,MAHARASHTRA,India
+Jan W4,STD,APP,TIER 3,Verified Orders,59932,MAHARASHTRA,India
+Jan W4,STD,M-Site,TIER 3,Verified Orders,2958,MAHARASHTRA,India
+Jan W4,STD,M-Site,TIER 3,Verified Orders,10365,PUNJAB,India
+Jan W4,STD,M-Site,TIER 3,Verified Orders,1687,PUNJAB,India
+Jan W4,STD,M-Site,TIER 3,Verified Orders,6497,RAJASTHAN,India
+Jan W4,STD,M-Site,TIER 3,Verified Orders,6169,RAJASTHAN,India
+Jan W4,STD,M-Site,EAST,Verified Orders,9875,WEST BENGAL,India
+Jan W4,STD,PC,METRO,Verified Orders,9029,DELHI,India
+Jan W4,STD,PC,METRO,Verified Orders,41954,KARNATAKA,India
+Jan W4,STD,PC,METRO,Verified Orders,2700,MAHARASHTRA,India
+Jan W4,STD,PC,NE,Verified Orders,22618,ASSAM,India
+Jan W4,STD,PC,NE,Verified Orders,14689,MANIPUR,India
+Jan W4,STD,PC,NE,Verified Orders,20458,NAGALAND,India
+Mar W1,COD,APP,NE,Verified Orders,27553,SIKKIM,India
+Mar W1,COD,APP,NE,Verified Orders,27770,TRIPURA,India
+Mar W1,COD,APP,TIER 1,Verified Orders,32068,CHANDIGARH,India
+Mar W1,COD,APP,TIER 1,Verified Orders,25806,GUJARAT,India
+Mar W1,COD,APP,TIER 1,Verified Orders,39290,KERALA,India
+Mar W1,COD,APP,TIER 1,Verified Orders,90721,KERALA,India
+Mar W1,COD,M-Site,TIER 2,Verified Orders,5914,GUJARAT,India
+Mar W1,COD,M-Site,TIER 2,Verified Orders,6788,HIMACHAL PRADESH,India
+Mar W1,COD,M-Site,TIER 2,Verified Orders,7091,KERALA,India
+Mar W1,COD,M-Site,TIER 2,Verified Orders,6050,MADHYA PRADESH,India
+Mar W1,COD,M-Site,TIER 2,Verified Orders,9080,MAHARASHTRA,India
+Mar W1,COD,M-Site,TIER 2,Verified Orders,19369,RAJASTHAN,India
+Mar W1,COD,PC,TIER 3,Verified Orders,4896,ANDAMAN & NICOBAR ISLANDS,India
+Mar W1,COD,PC,TIER 3,Verified Orders,7098,BIHAR,India
+Mar W1,COD,PC,TIER 3,Verified Orders,3172,BIHAR,India
+Mar W1,COD,PC,TIER 3,Verified Orders,5155,GUJARAT,India
+Mar W1,COD,PC,TIER 3,Verified Orders,6312,HARYANA,India
+Mar W1,COD,PC,TIER 3,Verified Orders,10596,KERALA,India
+Mar W1,STD,APP,TIER 3,Verified Orders,7744,KERALA,India
+Mar W1,STD,APP,TIER 3,Verified Orders,20070,MADHYA PRADESH,India
+Mar W1,STD,APP,TIER 3,Verified Orders,4701,MAHARASHTRA,India
+Mar W1,STD,APP,TIER 3,Verified Orders,13362,RAJASTHAN,India
+Mar W1,STD,APP,TIER 3,Verified Orders,12365,TELANGANA,India
+Mar W1,STD,APP,EAST,Verified Orders,23769,ORISSA,India
+Mar W1,STD,M-Site,EAST,Verified Orders,1135,WEST BENGAL,India
+Mar W1,STD,M-Site,EAST,Verified Orders,3931,WEST BENGAL,India
+Mar W1,STD,M-Site,METRO,Verified Orders,927,DELHI,India
+Mar W1,STD,M-Site,METRO,Verified Orders,2371,DELHI,India
+Mar W1,STD,M-Site,METRO,Verified Orders,2168,GUJARAT,India
+Mar W1,STD,M-Site,METRO,Verified Orders,3964,GUJARAT,India
+Mar W1,STD,PC,METRO,Verified Orders,3393,HARYANA,India
+Mar W1,STD,PC,METRO,Verified Orders,12851,KARNATAKA,India
+Mar W1,STD,PC,METRO,Verified Orders,1305,KARNATAKA,India
+Mar W1,STD,PC,METRO,Verified Orders,7140,MAHARASHTRA,India
+Mar W1,STD,PC,METRO,Verified Orders,5094,MAHARASHTRA,India
+Mar W1,STD,PC,METRO,Verified Orders,7729,TAMIL NADU,India
+Mar W2,COD,APP,METRO,Verified Orders,25670,TELANGANA,India
+Mar W2,COD,APP,NE,Verified Orders,25082,ASSAM,India
+Mar W2,COD,APP,NE,Verified Orders,28657,MANIPUR,India
+Mar W2,COD,APP,NE,Verified Orders,21777,NAGALAND,India
+Mar W2,COD,APP,NE,Verified Orders,33951,SIKKIM,India
+Mar W2,COD,APP,NE,Verified Orders,76437,TRIPURA,India
+Mar W2,COD,M-Site,TIER 1,Verified Orders,5486,GUJARAT,India
+Mar W2,COD,M-Site,TIER 1,Verified Orders,6411,KARNATAKA,India
+Mar W2,COD,M-Site,TIER 1,Verified Orders,6563,KERALA,India
+Mar W2,COD,M-Site,TIER 1,Verified Orders,5555,KERALA,India
+Mar W2,COD,M-Site,TIER 1,Verified Orders,8273,MAHARASHTRA,India
+Mar W2,COD,M-Site,TIER 1,Verified Orders,16639,TAMIL NADU,India
+Mar W2,COD,PC,TIER 2,Verified Orders,4412,BIHAR,India
+Mar W2,COD,PC,TIER 2,Verified Orders,6401,GUJARAT,India
+Mar W2,COD,PC,TIER 2,Verified Orders,2697,HIMACHAL PRADESH,India
+Mar W2,COD,PC,TIER 2,Verified Orders,4225,HIMACHAL PRADESH,India
+Mar W2,COD,PC,TIER 2,Verified Orders,5434,KERALA,India
+Mar W2,COD,PC,TIER 2,Verified Orders,9185,KERALA,India
+Mar W2,STD,APP,TIER 2,Verified Orders,6877,MADHYA PRADESH,India
+Mar W2,STD,APP,TIER 2,Verified Orders,17409,MAHARASHTRA,India
+Mar W2,STD,APP,TIER 3,Verified Orders,4762,ANDAMAN & NICOBAR ISLANDS,India
+Mar W2,STD,APP,TIER 3,Verified Orders,11149,ANDHRA PRADESH,India
+Mar W2,STD,APP,TIER 3,Verified Orders,10792,BIHAR,India
+Mar W2,STD,APP,TIER 3,Verified Orders,22913,CHHATTISGARH,India
+Mar W2,STD,M-Site,TIER 3,Verified Orders,1163,GUJARAT,India
+Mar W2,STD,M-Site,TIER 3,Verified Orders,3609,GUJARAT,India
+Mar W2,STD,M-Site,TIER 3,Verified Orders,865,HIMACHAL PRADESH,India
+Mar W2,STD,M-Site,TIER 3,Verified Orders,2171,HIMACHAL PRADESH,India
+Mar W2,STD,M-Site,TIER 3,Verified Orders,2084,KERALA,India
+Mar W2,STD,M-Site,TIER 3,Verified Orders,4023,KERALA,India
+Mar W2,STD,PC,TIER 3,Verified Orders,2956,MADHYA PRADESH,India
+Mar W2,STD,PC,TIER 3,Verified Orders,11410,MAHARASHTRA,India
+Mar W2,STD,PC,TIER 3,Verified Orders,1313,MAHARASHTRA,India
+Mar W2,STD,PC,TIER 3,Verified Orders,5941,MAHARASHTRA,India
+Mar W2,STD,PC,TIER 3,Verified Orders,4545,PUNJAB,India
+Mar W2,STD,PC,TIER 3,Verified Orders,6843,RAJASTHAN,India
+Mar W3,COD,APP,TIER 3,Verified Orders,26250,RAJASTHAN,India
+Mar W3,COD,APP,TIER 3,Verified Orders,24799,TAMIL NADU,India
+Mar W3,COD,APP,TIER 3,Verified Orders,30943,TELANGANA,India
+Mar W3,COD,APP,TIER 3,Verified Orders,23333,UTTARAKHAND,India
+Mar W3,COD,APP,TIER 3,Verified Orders,35205,UTTARAKHAND,India
+Mar W3,COD,APP,EAST,Verified Orders,79113,ORISSA,India
+Mar W3,COD,M-Site,EAST,Verified Orders,5479,WEST BENGAL,India
+Mar W3,COD,M-Site,EAST,Verified Orders,6201,WEST BENGAL,India
+Mar W3,COD,M-Site,METRO,Verified Orders,6473,DELHI,India
+Mar W3,COD,M-Site,METRO,Verified Orders,5783,DELHI,India
+Mar W3,COD,M-Site,METRO,Verified Orders,8319,DELHI,India
+Mar W3,COD,M-Site,METRO,Verified Orders,16354,HARYANA,India
+Mar W3,COD,PC,METRO,Verified Orders,4473,HARYANA,India
+Mar W3,COD,PC,METRO,Verified Orders,6209,HARYANA,India
+Mar W3,COD,PC,METRO,Verified Orders,3139,HARYANA,India
+Mar W3,COD,PC,METRO,Verified Orders,4591,KARNATAKA,India
+Mar W3,COD,PC,METRO,Verified Orders,5892,KARNATAKA,India
+Mar W3,COD,PC,METRO,Verified Orders,9264,KARNATAKA,India
+Mar W3,STD,APP,METRO,Verified Orders,6708,MAHARASHTRA,India
+Mar W3,STD,APP,METRO,Verified Orders,16571,MAHARASHTRA,India
+Mar W3,STD,APP,METRO,Verified Orders,4578,TAMIL NADU,India
+Mar W3,STD,APP,METRO,Verified Orders,11234,TAMIL NADU,India
+Mar W3,STD,APP,METRO,Verified Orders,10620,TELANGANA,India
+Mar W3,STD,APP,METRO,Verified Orders,22045,TELANGANA,India
+Mar W3,STD,M-Site,METRO,Verified Orders,1125,UTTAR PRADESH,India
+Mar W3,STD,M-Site,METRO,Verified Orders,2861,UTTAR PRADESH,India
+Mar W3,STD,M-Site,METRO,Verified Orders,888,UTTAR PRADESH,India
+Mar W3,STD,M-Site,TIER 1,Verified Orders,2110,ANDHRA PRADESH,India
+Mar W3,STD,M-Site,TIER 1,Verified Orders,2002,ANDHRA PRADESH,India
+Mar W3,STD,M-Site,TIER 1,Verified Orders,3677,GUJARAT,India
+Mar W3,STD,PC,TIER 1,Verified Orders,2855,GUJARAT,India
+Mar W3,STD,PC,TIER 1,Verified Orders,11070,HARYANA,India
+Mar W3,STD,PC,TIER 1,Verified Orders,1265,KARNATAKA,India
+Mar W3,STD,PC,TIER 1,Verified Orders,6380,KERALA,India
+Mar W3,STD,PC,TIER 1,Verified Orders,4469,KERALA,India
+Mar W3,STD,PC,TIER 1,Verified Orders,6923,MADHYA PRADESH,India
+Apr W1,COD,APP,TIER 1,Verified Orders,30599,MAHARASHTRA,India
+Apr W1,COD,APP,TIER 1,Verified Orders,27774,MAHARASHTRA,India
+Apr W1,COD,APP,TIER 1,Verified Orders,39165,MAHARASHTRA,India
+Apr W1,COD,APP,TIER 1,Verified Orders,25837,PONDICHERRY,India
+Apr W1,COD,APP,TIER 1,Verified Orders,40086,RAJASTHAN,India
+Apr W1,COD,APP,TIER 1,Verified Orders,89232,RAJASTHAN,India
+Apr W1,COD,M-Site,TIER 1,Verified Orders,6747,TAMIL NADU,India
+Apr W1,COD,M-Site,TIER 1,Verified Orders,7835,TAMIL NADU,India
+Apr W1,COD,M-Site,TIER 1,Verified Orders,8771,TELANGANA,India
+Apr W1,COD,M-Site,TIER 1,Verified Orders,7036,UTTAR PRADESH,India
+Apr W1,COD,M-Site,TIER 1,Verified Orders,10634,UTTAR PRADESH,India
+Apr W1,COD,M-Site,TIER 1,Verified Orders,20656,UTTARAKHAND,India
+Apr W1,COD,PC,TIER 1,Verified Orders,4804,UTTARAKHAND,India
+Apr W1,COD,PC,TIER 2,Verified Orders,6748,ANDHRA PRADESH,India
+Apr W1,COD,PC,TIER 2,Verified Orders,3393,ANDHRA PRADESH,India
+Apr W1,COD,PC,TIER 2,Verified Orders,4881,BIHAR,India
+Apr W1,COD,PC,TIER 2,Verified Orders,5715,CHANDIGARH,India
+Apr W1,COD,PC,TIER 2,Verified Orders,9761,CHANDIGARH,India
+Apr W1,STD,APP,TIER 2,Verified Orders,8539,CHHATTISGARH,India
+Apr W1,STD,APP,TIER 2,Verified Orders,22076,DAMAN & DIU,India
+Apr W1,STD,APP,TIER 2,Verified Orders,5083,GOA,India
+Apr W1,STD,APP,TIER 2,Verified Orders,14392,GOA,India
+Apr W1,STD,APP,TIER 2,Verified Orders,13141,GUJARAT,India
+Apr W1,STD,APP,TIER 2,Verified Orders,24594,HARYANA,India
+Apr W1,STD,M-Site,TIER 2,Verified Orders,1218,HARYANA,India
+Apr W1,STD,M-Site,TIER 2,Verified Orders,3558,HIMACHAL PRADESH,India
+Apr W1,STD,M-Site,TIER 2,Verified Orders,922,HIMACHAL PRADESH,India
+Apr W1,STD,M-Site,TIER 2,Verified Orders,2303,KARNATAKA,India
+Apr W1,STD,M-Site,TIER 2,Verified Orders,2261,KARNATAKA,India
+Apr W1,STD,M-Site,TIER 2,Verified Orders,4019,KERALA,India
+Apr W1,STD,PC,TIER 2,Verified Orders,3417,MADHYA PRADESH,India
+Apr W1,STD,PC,TIER 2,Verified Orders,13386,MAHARASHTRA,India
+Apr W1,STD,PC,TIER 2,Verified Orders,1375,MAHARASHTRA,India
+Apr W1,STD,PC,TIER 2,Verified Orders,7463,MAHARASHTRA,India
+Apr W1,STD,PC,TIER 2,Verified Orders,4685,PUNJAB,India
+Apr W1,STD,PC,TIER 2,Verified Orders,6976,RAJASTHAN,India
+Apr W2,COD,APP,TIER 2,Verified Orders,29975,RAJASTHAN,India
+Apr W2,COD,APP,TIER 2,Verified Orders,28327,TAMIL NADU,India
+Apr W2,COD,APP,TIER 2,Verified Orders,35091,TAMIL NADU,India
+Apr W2,COD,APP,TIER 2,Verified Orders,26336,TELANGANA,India
+Apr W2,COD,APP,TIER 2,Verified Orders,40260,UTTAR PRADESH,India
+Apr W2,COD,APP,TIER 2,Verified Orders,87045,UTTAR PRADESH,India
+Apr W2,COD,M-Site,TIER 2,Verified Orders,6523,UTTARAKHAND,India
+Apr W2,COD,M-Site,TIER 3,Verified Orders,7417,ANDHRA PRADESH,India
+Apr W2,COD,M-Site,TIER 3,Verified Orders,7631,ANDHRA PRADESH,India
+Apr W2,COD,M-Site,TIER 3,Verified Orders,7036,BIHAR,India
+Apr W2,COD,M-Site,TIER 3,Verified Orders,10513,BIHAR,India
+Apr W2,COD,M-Site,TIER 3,Verified Orders,19883,CHHATTISGARH,India
+Apr W2,COD,PC,TIER 3,Verified Orders,4731,CHHATTISGARH,India
+Apr W2,COD,PC,TIER 3,Verified Orders,6594,GUJARAT,India
+Apr W2,COD,PC,TIER 3,Verified Orders,2851,GUJARAT,India
+Apr W2,COD,PC,TIER 3,Verified Orders,4680,HARYANA,India
+Apr W2,COD,PC,TIER 3,Verified Orders,5447,HARYANA,India
+Apr W2,COD,PC,TIER 3,Verified Orders,9397,HIMACHAL PRADESH,India
+Apr W2,STD,APP,TIER 3,Verified Orders,7478,HIMACHAL PRADESH,India
+Apr W2,STD,APP,TIER 3,Verified Orders,18257,JAMMU & KASHMIR,India
+Apr W2,STD,APP,TIER 3,Verified Orders,4528,JAMMU & KASHMIR,India
+Apr W2,STD,APP,TIER 3,Verified Orders,12474,KARNATAKA,India
+Apr W2,STD,APP,TIER 3,Verified Orders,11612,KARNATAKA,India
+Apr W2,STD,APP,TIER 3,Verified Orders,21975,KERALA,India
+Apr W2,STD,M-Site,TIER 3,Verified Orders,1200,MAHARASHTRA,India
+Apr W2,STD,M-Site,TIER 3,Verified Orders,3059,MAHARASHTRA,India
+Apr W2,STD,M-Site,TIER 3,Verified Orders,854,MAHARASHTRA,India
+Apr W2,STD,M-Site,TIER 3,Verified Orders,2138,PONDICHERRY,India
+Apr W2,STD,M-Site,TIER 3,Verified Orders,2065,PUNJAB,India
+Apr W2,STD,M-Site,TIER 3,Verified Orders,3660,PUNJAB,India
+Apr W2,STD,PC,TIER 3,Verified Orders,2868,RAJASTHAN,India
+Apr W2,STD,PC,TIER 3,Verified Orders,11202,RAJASTHAN,India
+Apr W2,STD,PC,TIER 3,Verified Orders,1127,TAMIL NADU,India
+Apr W2,STD,PC,TIER 3,Verified Orders,5712,TAMIL NADU,India
+Apr W2,STD,PC,TIER 3,Verified Orders,4198,TELANGANA,India
+Apr W2,STD,PC,TIER 3,Verified Orders,6151,TELANGANA,India
+Mar W4,COD,APP,TIER 3,Verified Orders,42334,UTTAR PRADESH,India
+Mar W4,COD,APP,TIER 3,Verified Orders,36880,UTTAR PRADESH,India
+Mar W4,COD,APP,TIER 3,Verified Orders,49984,UTTARAKHAND,India
+Mar W4,COD,APP,EAST,Verified Orders,34298,ORISSA,India
+Mar W4,COD,APP,EAST,Verified Orders,55363,WEST BENGAL,India
+Mar W4,COD,APP,EAST,Verified Orders,123357,WEST BENGAL,India
+Mar W4,COD,M-Site,METRO,Verified Orders,8908,GUJARAT,India
+Mar W4,COD,M-Site,METRO,Verified Orders,9085,HARYANA,India
+Mar W4,COD,M-Site,METRO,Verified Orders,10809,HARYANA,India
+Mar W4,COD,M-Site,METRO,Verified Orders,8636,KARNATAKA,India
+Mar W4,COD,M-Site,METRO,Verified Orders,13177,MAHARASHTRA,India
+Mar W4,COD,M-Site,METRO,Verified Orders,25842,UTTAR PRADESH,India
+Mar W4,COD,PC,TIER 1,Verified Orders,7054,ANDHRA PRADESH,India
+Mar W4,COD,PC,TIER 1,Verified Orders,9321,CHANDIGARH,India
+Mar W4,COD,PC,TIER 1,Verified Orders,4823,CHANDIGARH,India
+Mar W4,COD,PC,TIER 1,Verified Orders,6967,GUJARAT,India
+Mar W4,COD,PC,TIER 1,Verified Orders,8328,KERALA,India
+Mar W4,COD,PC,TIER 1,Verified Orders,14105,MADHYA PRADESH,India
+Mar W4,STD,APP,TIER 1,Verified Orders,9682,MAHARASHTRA,India
+Mar W4,STD,APP,TIER 1,Verified Orders,23861,MAHARASHTRA,India
+Mar W4,STD,APP,TIER 1,Verified Orders,6216,PONDICHERRY,India
+Mar W4,STD,APP,TIER 1,Verified Orders,16005,UTTAR PRADESH,India
+Mar W4,STD,APP,TIER 1,Verified Orders,15475,UTTARAKHAND,India
+Mar W4,STD,APP,TIER 2,Verified Orders,29630,ANDHRA PRADESH,India
+Mar W4,STD,M-Site,TIER 2,Verified Orders,1505,ANDHRA PRADESH,India
+Mar W4,STD,M-Site,TIER 2,Verified Orders,4593,BIHAR,India
+Mar W4,STD,M-Site,TIER 2,Verified Orders,1203,BIHAR,India
+Mar W4,STD,M-Site,TIER 2,Verified Orders,2778,CHANDIGARH,India
+Mar W4,STD,M-Site,TIER 2,Verified Orders,2518,CHHATTISGARH,India
+Mar W4,STD,M-Site,TIER 2,Verified Orders,4953,DAMAN & DIU,India
+Mar W4,STD,PC,TIER 2,Verified Orders,4241,GOA,India
+Mar W4,STD,PC,TIER 2,Verified Orders,15589,GUJARAT,India
+Mar W4,STD,PC,TIER 2,Verified Orders,1903,HARYANA,India
+Mar W4,STD,PC,TIER 2,Verified Orders,9060,HIMACHAL PRADESH,India
+Mar W4,STD,PC,TIER 2,Verified Orders,6093,HIMACHAL PRADESH,India
+Mar W4,STD,PC,TIER 2,Verified Orders,9607,KARNATAKA,India
+Feb W1,COD,APP,TIER 2,Pre-Manifest,3179,KARNATAKA,India
+Feb W1,COD,APP,TIER 2,Pre-Manifest,2912,KERALA,India
+Feb W1,COD,APP,TIER 2,Pre-Manifest,2037,MADHYA PRADESH,India
+Feb W1,COD,APP,TIER 2,Pre-Manifest,2657,MAHARASHTRA,India
+Feb W1,COD,APP,TIER 2,Pre-Manifest,3962,TAMIL NADU,India
+Feb W1,COD,APP,TIER 2,Pre-Manifest,8273,TELANGANA,India
+Feb W1,COD,M-Site,TIER 2,Pre-Manifest,586,UTTAR PRADESH,India
+Feb W1,COD,M-Site,TIER 2,Pre-Manifest,612,UTTAR PRADESH,India
+Feb W1,COD,M-Site,TIER 3,Pre-Manifest,409,ANDHRA PRADESH,India
+Feb W1,COD,M-Site,TIER 3,Pre-Manifest,622,ANDHRA PRADESH,India
+Feb W1,COD,M-Site,TIER 3,Pre-Manifest,842,BIHAR,India
+Feb W1,COD,M-Site,TIER 3,Pre-Manifest,1547,BIHAR,India
+Feb W1,COD,PC,TIER 3,Pre-Manifest,355,CHHATTISGARH,India
+Feb W1,COD,PC,TIER 3,Pre-Manifest,540,GUJARAT,India
+Feb W1,COD,PC,TIER 3,Pre-Manifest,123,HARYANA,India
+Feb W1,COD,PC,TIER 3,Pre-Manifest,369,HIMACHAL PRADESH,India
+Feb W1,COD,PC,TIER 3,Pre-Manifest,434,JAMMU & KASHMIR,India
+Feb W1,COD,PC,TIER 3,Pre-Manifest,696,JAMMU & KASHMIR,India
+Feb W1,STD,APP,TIER 3,Pre-Manifest,265,KARNATAKA,India
+Feb W1,STD,APP,TIER 3,Pre-Manifest,629,KARNATAKA,India
+Feb W1,STD,APP,TIER 3,Pre-Manifest,123,KERALA,India
+Feb W1,STD,APP,TIER 3,Pre-Manifest,436,MAHARASHTRA,India
+Feb W1,STD,APP,TIER 3,Pre-Manifest,481,MAHARASHTRA,India
+Feb W1,STD,APP,TIER 3,Pre-Manifest,792,PONDICHERRY,India
+Feb W1,STD,M-Site,TIER 3,Pre-Manifest,39,PUNJAB,India
+Feb W1,STD,M-Site,TIER 3,Pre-Manifest,86,RAJASTHAN,India
+Feb W1,STD,M-Site,TIER 3,Pre-Manifest,17,RAJASTHAN,India
+Feb W1,STD,M-Site,TIER 3,Pre-Manifest,81,TAMIL NADU,India
+Feb W1,STD,M-Site,TIER 3,Pre-Manifest,68,TAMIL NADU,India
+Feb W1,STD,M-Site,TIER 3,Pre-Manifest,136,TELANGANA,India
+Feb W1,STD,PC,TIER 3,Pre-Manifest,90,UTTAR PRADESH,India
+Feb W1,STD,PC,TIER 3,Pre-Manifest,310,UTTARAKHAND,India
+Feb W1,STD,PC,TIER 3,Pre-Manifest,24,UTTARAKHAND,India
+Feb W1,STD,PC,EAST,Pre-Manifest,179,ORISSA,India
+Feb W1,STD,PC,EAST,Pre-Manifest,113,ORISSA,India
+Feb W1,STD,PC,EAST,Pre-Manifest,161,WEST BENGAL,India
+Feb W2,COD,APP,METRO,Pre-Manifest,2326,DELHI,India
+Feb W2,COD,APP,METRO,Pre-Manifest,2309,HARYANA,India
+Feb W2,COD,APP,METRO,Pre-Manifest,1853,KARNATAKA,India
+Feb W2,COD,APP,METRO,Pre-Manifest,2033,KARNATAKA,India
+Feb W2,COD,APP,METRO,Pre-Manifest,3095,MAHARASHTRA,India
+Feb W2,COD,APP,METRO,Pre-Manifest,7224,MAHARASHTRA,India
+Feb W2,COD,M-Site,METRO,Pre-Manifest,451,TAMIL NADU,India
+Feb W2,COD,M-Site,METRO,Pre-Manifest,468,TELANGANA,India
+Feb W2,COD,M-Site,METRO,Pre-Manifest,354,TELANGANA,India
+Feb W2,COD,M-Site,TIER 1,Pre-Manifest,463,ANDHRA PRADESH,India
+Feb W2,COD,M-Site,TIER 1,Pre-Manifest,628,GUJARAT,India
+Feb W2,COD,M-Site,TIER 1,Pre-Manifest,1461,KERALA,India
+Feb W2,COD,PC,TIER 1,Pre-Manifest,299,KERALA,India
+Feb W2,COD,PC,TIER 1,Pre-Manifest,440,MADHYA PRADESH,India
+Feb W2,COD,PC,TIER 1,Pre-Manifest,127,MAHARASHTRA,India
+Feb W2,COD,PC,TIER 1,Pre-Manifest,282,MAHARASHTRA,India
+Feb W2,COD,PC,TIER 1,Pre-Manifest,302,PUNJAB,India
+Feb W2,COD,PC,TIER 1,Pre-Manifest,546,TAMIL NADU,India
+Feb W2,STD,APP,TIER 1,Pre-Manifest,220,TAMIL NADU,India
+Feb W2,STD,APP,TIER 1,Pre-Manifest,597,UTTAR PRADESH,India
+Feb W2,STD,APP,TIER 1,Pre-Manifest,95,UTTAR PRADESH,India
+Feb W2,STD,APP,TIER 2,Pre-Manifest,387,ANDHRA PRADESH,India
+Feb W2,STD,APP,TIER 2,Pre-Manifest,364,ANDHRA PRADESH,India
+Feb W2,STD,APP,TIER 2,Pre-Manifest,772,CHHATTISGARH,India
+Feb W2,STD,M-Site,TIER 2,Pre-Manifest,39,GOA,India
+Feb W2,STD,M-Site,TIER 2,Pre-Manifest,95,GOA,India
+Feb W2,STD,M-Site,TIER 2,Pre-Manifest,15,GUJARAT,India
+Feb W2,STD,M-Site,TIER 2,Pre-Manifest,67,HARYANA,India
+Feb W2,STD,M-Site,TIER 2,Pre-Manifest,67,KARNATAKA,India
+Feb W2,STD,M-Site,TIER 2,Pre-Manifest,89,KARNATAKA,India
+Feb W2,STD,PC,TIER 2,Pre-Manifest,73,KERALA,India
+Feb W2,STD,PC,TIER 2,Pre-Manifest,250,MADHYA PRADESH,India
+Feb W2,STD,PC,TIER 2,Pre-Manifest,12,MAHARASHTRA,India
+Feb W2,STD,PC,TIER 2,Pre-Manifest,122,MAHARASHTRA,India
+Feb W2,STD,PC,TIER 2,Pre-Manifest,100,RAJASTHAN,India
+Feb W2,STD,PC,TIER 2,Pre-Manifest,146,TAMIL NADU,India
+Feb W3,COD,APP,TIER 2,Pre-Manifest,2170,TAMIL NADU,India
+Feb W3,COD,APP,TIER 2,Pre-Manifest,1842,UTTAR PRADESH,India
+Feb W3,COD,APP,TIER 2,Pre-Manifest,1523,UTTAR PRADESH,India
+Feb W3,COD,APP,TIER 2,Pre-Manifest,1741,UTTARAKHAND,India
+Feb W3,COD,APP,TIER 3,Pre-Manifest,2694,ANDHRA PRADESH,India
+Feb W3,COD,APP,TIER 3,Pre-Manifest,6406,ANDHRA PRADESH,India
+Feb W3,COD,M-Site,TIER 3,Pre-Manifest,435,CHHATTISGARH,India
+Feb W3,COD,M-Site,TIER 3,Pre-Manifest,475,GUJARAT,India
+Feb W3,COD,M-Site,TIER 3,Pre-Manifest,290,HARYANA,India
+Feb W3,COD,M-Site,TIER 3,Pre-Manifest,410,HIMACHAL PRADESH,India
+Feb W3,COD,M-Site,TIER 3,Pre-Manifest,551,HIMACHAL PRADESH,India
+Feb W3,COD,M-Site,TIER 3,Pre-Manifest,1306,JAMMU & KASHMIR,India
+Feb W3,COD,PC,TIER 3,Pre-Manifest,244,JAMMU & KASHMIR,India
+Feb W3,COD,PC,TIER 3,Pre-Manifest,364,KARNATAKA,India
+Feb W3,COD,PC,TIER 3,Pre-Manifest,108,KERALA,India
+Feb W3,COD,PC,TIER 3,Pre-Manifest,275,MAHARASHTRA,India
+Feb W3,COD,PC,TIER 3,Pre-Manifest,288,MAHARASHTRA,India
+Feb W3,COD,PC,TIER 3,Pre-Manifest,531,PUNJAB,India
+Feb W3,STD,APP,TIER 3,Pre-Manifest,201,RAJASTHAN,India
+Feb W3,STD,APP,TIER 3,Pre-Manifest,478,TAMIL NADU,India
+Feb W3,STD,APP,TIER 3,Pre-Manifest,103,TELANGANA,India
+Feb W3,STD,APP,TIER 3,Pre-Manifest,348,TELANGANA,India
+Feb W3,STD,APP,TIER 3,Pre-Manifest,320,UTTAR PRADESH,India
+Feb W3,STD,APP,TIER 3,Pre-Manifest,629,UTTAR PRADESH,India
+Feb W3,STD,M-Site,EAST,Pre-Manifest,40,ORISSA,India
+Feb W3,STD,M-Site,EAST,Pre-Manifest,80,ORISSA,India
+Feb W3,STD,M-Site,EAST,Pre-Manifest,16,WEST BENGAL,India
+Feb W3,STD,M-Site,EAST,Pre-Manifest,45,WEST BENGAL,India
+Feb W3,STD,M-Site,EAST,Pre-Manifest,57,WEST BENGAL,India
+Feb W3,STD,M-Site,METRO,Pre-Manifest,120,DELHI,India
+Feb W3,STD,PC,METRO,Pre-Manifest,54,DELHI,India
+Feb W3,STD,PC,METRO,Pre-Manifest,245,DELHI,India
+Feb W3,STD,PC,METRO,Pre-Manifest,10,GUJARAT,India
+Feb W3,STD,PC,METRO,Pre-Manifest,100,HARYANA,India
+Feb W3,STD,PC,METRO,Pre-Manifest,81,HARYANA,India
+Feb W3,STD,PC,METRO,Pre-Manifest,119,HARYANA,India
+Feb W4,COD,APP,METRO,Pre-Manifest,2583,HARYANA,India
+Feb W4,COD,APP,METRO,Pre-Manifest,2190,KARNATAKA,India
+Feb W4,COD,APP,METRO,Pre-Manifest,2114,MAHARASHTRA,India
+Feb W4,COD,APP,METRO,Pre-Manifest,2020,MAHARASHTRA,India
+Feb W4,COD,APP,METRO,Pre-Manifest,3175,MAHARASHTRA,India
+Feb W4,COD,APP,METRO,Pre-Manifest,7755,TAMIL NADU,India
+Feb W4,COD,M-Site,METRO,Pre-Manifest,435,TAMIL NADU,India
+Feb W4,COD,M-Site,METRO,Pre-Manifest,402,TELANGANA,India
+Feb W4,COD,M-Site,METRO,Pre-Manifest,331,TELANGANA,India
+Feb W4,COD,M-Site,METRO,Pre-Manifest,375,UTTAR PRADESH,India
+Feb W4,COD,M-Site,TIER 1,Pre-Manifest,547,ANDHRA PRADESH,India
+Feb W4,COD,M-Site,TIER 1,Pre-Manifest,1389,ANDHRA PRADESH,India
+Feb W4,COD,PC,TIER 1,Pre-Manifest,273,GUJARAT,India
+Feb W4,COD,PC,TIER 1,Pre-Manifest,392,GUJARAT,India
+Feb W4,COD,PC,TIER 1,Pre-Manifest,136,KARNATAKA,India
+Feb W4,COD,PC,TIER 1,Pre-Manifest,274,KERALA,India
+Feb W4,COD,PC,TIER 1,Pre-Manifest,297,MADHYA PRADESH,India
+Feb W4,COD,PC,TIER 1,Pre-Manifest,563,MADHYA PRADESH,India
+Feb W4,STD,APP,TIER 1,Pre-Manifest,216,MAHARASHTRA,India
+Feb W4,STD,APP,TIER 1,Pre-Manifest,534,MAHARASHTRA,India
+Feb W4,STD,APP,TIER 1,Pre-Manifest,90,MAHARASHTRA,India
+Feb W4,STD,APP,TIER 1,Pre-Manifest,339,PONDICHERRY,India
+Feb W4,STD,APP,TIER 1,Pre-Manifest,323,PUNJAB,India
+Feb W4,STD,APP,TIER 1,Pre-Manifest,678,RAJASTHAN,India
+Feb W4,STD,M-Site,TIER 1,Pre-Manifest,33,RAJASTHAN,India
+Feb W4,STD,M-Site,TIER 1,Pre-Manifest,95,TAMIL NADU,India
+Feb W4,STD,M-Site,TIER 1,Pre-Manifest,14,UTTAR PRADESH,India
+Feb W4,STD,M-Site,TIER 1,Pre-Manifest,57,UTTAR PRADESH,India
+Feb W4,STD,M-Site,TIER 1,Pre-Manifest,45,UTTAR PRADESH,India
+Feb W4,STD,M-Site,TIER 1,Pre-Manifest,103,UTTARAKHAND,India
+Feb W4,STD,PC,TIER 1,Pre-Manifest,50,UTTARAKHAND,India
+Feb W4,STD,PC,TIER 2,Pre-Manifest,244,ANDHRA PRADESH,India
+Feb W4,STD,PC,TIER 2,Pre-Manifest,15,ANDHRA PRADESH,India
+Feb W4,STD,PC,TIER 2,Pre-Manifest,151,BIHAR,India
+Feb W4,STD,PC,TIER 2,Pre-Manifest,72,CHANDIGARH,India
+Feb W4,STD,PC,TIER 2,Pre-Manifest,101,CHHATTISGARH,India
+Jan W1,COD,APP,TIER 2,Pre-Manifest,9136,CHHATTISGARH,India
+Jan W1,COD,APP,TIER 2,Pre-Manifest,10703,DADRA & NAGAR HAVELI,India
+Jan W1,COD,APP,TIER 2,Pre-Manifest,5117,DAMAN & DIU,India
+Jan W1,COD,APP,TIER 2,Pre-Manifest,8701,GOA,India
+Jan W1,COD,APP,TIER 2,Pre-Manifest,13250,GUJARAT,India
+Jan W1,COD,APP,TIER 2,Pre-Manifest,27579,HARYANA,India
+Jan W1,COD,M-Site,TIER 2,Pre-Manifest,2045,HARYANA,India
+Jan W1,COD,M-Site,TIER 2,Pre-Manifest,2646,HIMACHAL PRADESH,India
+Jan W1,COD,M-Site,TIER 2,Pre-Manifest,1152,KARNATAKA,India
+Jan W1,COD,M-Site,TIER 2,Pre-Manifest,2428,KARNATAKA,India
+Jan W1,COD,M-Site,TIER 2,Pre-Manifest,3428,KERALA,India
+Jan W1,COD,M-Site,TIER 2,Pre-Manifest,6316,MADHYA PRADESH,India
+Jan W1,COD,PC,TIER 2,Pre-Manifest,1352,MAHARASHTRA,India
+Jan W1,COD,PC,TIER 2,Pre-Manifest,2215,MAHARASHTRA,India
+Jan W1,COD,PC,TIER 2,Pre-Manifest,415,PUNJAB,India
+Jan W1,COD,PC,TIER 2,Pre-Manifest,1581,RAJASTHAN,India
+Jan W1,COD,PC,TIER 2,Pre-Manifest,1739,RAJASTHAN,India
+Jan W1,COD,PC,TIER 2,Pre-Manifest,2717,RAJASTHAN,India
+Jan W1,STD,APP,TIER 2,Pre-Manifest,945,TAMIL NADU,India
+Jan W1,STD,APP,TIER 2,Pre-Manifest,2307,TAMIL NADU,India
+Jan W1,STD,APP,TIER 2,Pre-Manifest,318,TELANGANA,India
+Jan W1,STD,APP,TIER 2,Pre-Manifest,1698,UTTAR PRADESH,India
+Jan W1,STD,APP,TIER 2,Pre-Manifest,1748,UTTAR PRADESH,India
+Jan W1,STD,APP,TIER 2,Pre-Manifest,2934,UTTARAKHAND,India
+Jan W1,STD,M-Site,TIER 2,Pre-Manifest,163,UTTARAKHAND,India
+Jan W1,STD,M-Site,TIER 3,Pre-Manifest,417,ANDHRA PRADESH,India
+Jan W1,STD,M-Site,TIER 3,Pre-Manifest,63,ANDHRA PRADESH,India
+Jan W1,STD,M-Site,TIER 3,Pre-Manifest,317,BIHAR,India
+Jan W1,STD,M-Site,TIER 3,Pre-Manifest,340,GUJARAT,India
+Jan W1,STD,M-Site,TIER 3,Pre-Manifest,486,HARYANA,India
+Jan W1,STD,PC,TIER 3,Pre-Manifest,380,HARYANA,India
+Jan W1,STD,PC,TIER 3,Pre-Manifest,1523,HIMACHAL PRADESH,India
+Jan W1,STD,PC,TIER 3,Pre-Manifest,49,JAMMU & KASHMIR,India
+Jan W1,STD,PC,TIER 3,Pre-Manifest,897,JAMMU & KASHMIR,India
+Jan W1,STD,PC,TIER 3,Pre-Manifest,607,KARNATAKA,India
+Jan W1,STD,PC,TIER 3,Pre-Manifest,819,KERALA,India
+Jan W2,COD,APP,TIER 3,Pre-Manifest,9645,MAHARASHTRA,India
+Jan W2,COD,APP,TIER 3,Pre-Manifest,10899,MAHARASHTRA,India
+Jan W2,COD,APP,TIER 3,Pre-Manifest,4514,PUNJAB,India
+Jan W2,COD,APP,TIER 3,Pre-Manifest,9073,PUNJAB,India
+Jan W2,COD,APP,TIER 3,Pre-Manifest,13425,RAJASTHAN,India
+Jan W2,COD,APP,TIER 3,Pre-Manifest,25186,TAMIL NADU,India
+Jan W2,COD,M-Site,TIER 3,Pre-Manifest,2473,TAMIL NADU,India
+Jan W2,COD,M-Site,TIER 3,Pre-Manifest,3178,TELANGANA,India
+Jan W2,COD,M-Site,TIER 3,Pre-Manifest,1091,UTTAR PRADESH,India
+Jan W2,COD,M-Site,TIER 3,Pre-Manifest,2779,UTTAR PRADESH,India
+Jan W2,COD,M-Site,TIER 3,Pre-Manifest,3823,UTTARAKHAND,India
+Jan W2,COD,M-Site,EAST,Pre-Manifest,6580,ORISSA,India
+Jan W2,COD,PC,EAST,Pre-Manifest,1692,WEST BENGAL,India
+Jan W2,COD,PC,METRO,Pre-Manifest,2402,DELHI,India
+Jan W2,COD,PC,METRO,Pre-Manifest,375,DELHI,India
+Jan W2,COD,PC,METRO,Pre-Manifest,1772,DELHI,India
+Jan W2,COD,PC,METRO,Pre-Manifest,1858,GUJARAT,India
+Jan W2,COD,PC,METRO,Pre-Manifest,2765,HARYANA,India
+Jan W2,STD,APP,METRO,Pre-Manifest,1233,KARNATAKA,India
+Jan W2,STD,APP,METRO,Pre-Manifest,3911,KARNATAKA,India
+Jan W2,STD,APP,METRO,Pre-Manifest,297,MAHARASHTRA,India
+Jan W2,STD,APP,METRO,Pre-Manifest,2394,MAHARASHTRA,India
+Jan W2,STD,APP,METRO,Pre-Manifest,2246,TELANGANA,India
+Jan W2,STD,APP,METRO,Pre-Manifest,3327,TELANGANA,India
+Jan W2,STD,M-Site,TIER 1,Pre-Manifest,199,GUJARAT,India
+Jan W2,STD,M-Site,TIER 1,Pre-Manifest,666,KERALA,India
+Jan W2,STD,M-Site,TIER 1,Pre-Manifest,66,MADHYA PRADESH,India
+Jan W2,STD,M-Site,TIER 1,Pre-Manifest,451,MAHARASHTRA,India
+Jan W2,STD,M-Site,TIER 1,Pre-Manifest,380,MAHARASHTRA,India
+Jan W2,STD,M-Site,TIER 1,Pre-Manifest,663,TELANGANA,India
+Jan W2,STD,PC,TIER 1,Pre-Manifest,458,UTTAR PRADESH,India
+Jan W2,STD,PC,TIER 2,Pre-Manifest,2164,ANDHRA PRADESH,India
+Jan W2,STD,PC,TIER 2,Pre-Manifest,77,BIHAR,India
+Jan W2,STD,PC,TIER 2,Pre-Manifest,1081,CHHATTISGARH,India
+Jan W2,STD,PC,TIER 2,Pre-Manifest,775,GOA,India
+Jan W2,STD,PC,TIER 2,Pre-Manifest,1046,HARYANA,India
+Jan W3,COD,APP,TIER 2,Pre-Manifest,8280,HIMACHAL PRADESH,India
+Jan W3,COD,APP,TIER 2,Pre-Manifest,8684,MADHYA PRADESH,India
+Jan W3,COD,APP,TIER 2,Pre-Manifest,4820,MAHARASHTRA,India
+Jan W3,COD,APP,TIER 2,Pre-Manifest,7960,RAJASTHAN,India
+Jan W3,COD,APP,TIER 2,Pre-Manifest,11380,TAMIL NADU,India
+Jan W3,COD,APP,TIER 2,Pre-Manifest,22801,UTTAR PRADESH,India
+Jan W3,COD,M-Site,TIER 2,Pre-Manifest,2334,UTTAR PRADESH,India
+Jan W3,COD,M-Site,TIER 3,Pre-Manifest,2727,ANDHRA PRADESH,India
+Jan W3,COD,M-Site,TIER 3,Pre-Manifest,1117,ANDHRA PRADESH,India
+Jan W3,COD,M-Site,TIER 3,Pre-Manifest,2320,BIHAR,India
+Jan W3,COD,M-Site,TIER 3,Pre-Manifest,3433,HIMACHAL PRADESH,India
+Jan W3,COD,M-Site,TIER 3,Pre-Manifest,5715,JAMMU & KASHMIR,India
+Jan W3,COD,PC,TIER 3,Pre-Manifest,1392,JAMMU & KASHMIR,India
+Jan W3,COD,PC,TIER 3,Pre-Manifest,2128,KERALA,India
+Jan W3,COD,PC,TIER 3,Pre-Manifest,373,MAHARASHTRA,India
+Jan W3,COD,PC,TIER 3,Pre-Manifest,1618,TAMIL NADU,India
+Jan W3,COD,PC,TIER 3,Pre-Manifest,1642,TAMIL NADU,India
+Jan W3,COD,PC,TIER 3,Pre-Manifest,2516,TELANGANA,India
+Jan W3,STD,APP,TIER 3,Pre-Manifest,832,UTTAR PRADESH,India
+Jan W3,STD,APP,TIER 3,Pre-Manifest,2709,UTTAR PRADESH,India
+Jan W3,STD,APP,EAST,Pre-Manifest,253,ORISSA,India
+Jan W3,STD,APP,EAST,Pre-Manifest,1536,ORISSA,India
+Jan W3,STD,APP,EAST,Pre-Manifest,1554,WEST BENGAL,India
+Jan W3,STD,APP,EAST,Pre-Manifest,2373,WEST BENGAL,India
+Jan W3,STD,M-Site,METRO,Pre-Manifest,206,DELHI,India
+Jan W3,STD,M-Site,METRO,Pre-Manifest,464,GUJARAT,India
+Jan W3,STD,M-Site,METRO,Pre-Manifest,56,HARYANA,India
+Jan W3,STD,M-Site,METRO,Pre-Manifest,300,HARYANA,India
+Jan W3,STD,M-Site,METRO,Pre-Manifest,304,HARYANA,India
+Jan W3,STD,M-Site,METRO,Pre-Manifest,521,KARNATAKA,India
+Jan W3,STD,PC,METRO,Pre-Manifest,369,KARNATAKA,India
+Jan W3,STD,PC,METRO,Pre-Manifest,1776,KARNATAKA,India
+Jan W3,STD,PC,METRO,Pre-Manifest,52,MAHARASHTRA,India
+Jan W3,STD,PC,METRO,Pre-Manifest,764,MAHARASHTRA,India
+Jan W3,STD,PC,METRO,Pre-Manifest,519,MAHARASHTRA,India
+Jan W3,STD,PC,METRO,Pre-Manifest,784,TAMIL NADU,India
+Jan W4,COD,APP,METRO,Pre-Manifest,8896,TELANGANA,India
+Jan W4,COD,APP,METRO,Pre-Manifest,8706,TELANGANA,India
+Jan W4,COD,APP,METRO,Pre-Manifest,5494,TELANGANA,India
+Jan W4,COD,APP,METRO,Pre-Manifest,7728,UTTAR PRADESH,India
+Jan W4,COD,APP,TIER 1,Pre-Manifest,11733,ANDHRA PRADESH,India
+Jan W4,COD,APP,TIER 1,Pre-Manifest,24173,ANDHRA PRADESH,India
+Jan W4,COD,M-Site,TIER 1,Pre-Manifest,1958,GUJARAT,India
+Jan W4,COD,M-Site,TIER 1,Pre-Manifest,1947,GUJARAT,India
+Jan W4,COD,M-Site,TIER 1,Pre-Manifest,1193,KARNATAKA,India
+Jan W4,COD,M-Site,TIER 1,Pre-Manifest,1837,KERALA,India
+Jan W4,COD,M-Site,TIER 1,Pre-Manifest,2684,MADHYA PRADESH,India
+Jan W4,COD,M-Site,TIER 1,Pre-Manifest,4831,MAHARASHTRA,India
+Jan W4,COD,PC,TIER 1,Pre-Manifest,1167,MAHARASHTRA,India
+Jan W4,COD,PC,TIER 1,Pre-Manifest,1651,MAHARASHTRA,India
+Jan W4,COD,PC,TIER 1,Pre-Manifest,425,MAHARASHTRA,India
+Jan W4,COD,PC,TIER 1,Pre-Manifest,1288,PONDICHERRY,India
+Jan W4,COD,PC,TIER 1,Pre-Manifest,1437,PONDICHERRY,India
+Jan W4,COD,PC,TIER 1,Pre-Manifest,2400,RAJASTHAN,India
+Jan W4,STD,APP,TIER 1,Pre-Manifest,808,TAMIL NADU,India
+Jan W4,STD,APP,TIER 1,Pre-Manifest,2562,TAMIL NADU,India
+Jan W4,STD,APP,TIER 1,Pre-Manifest,269,UTTAR PRADESH,India
+Jan W4,STD,APP,TIER 1,Pre-Manifest,1602,UTTAR PRADESH,India
+Jan W4,STD,APP,TIER 1,Pre-Manifest,1590,UTTAR PRADESH,India
+Jan W4,STD,APP,TIER 1,Pre-Manifest,2280,UTTARAKHAND,India
+Jan W4,STD,M-Site,TIER 1,Pre-Manifest,132,UTTARAKHAND,India
+Jan W4,STD,M-Site,TIER 2,Pre-Manifest,403,ANDHRA PRADESH,India
+Jan W4,STD,M-Site,TIER 2,Pre-Manifest,52,ANDHRA PRADESH,India
+Jan W4,STD,M-Site,TIER 2,Pre-Manifest,280,BIHAR,India
+Jan W4,STD,M-Site,TIER 2,Pre-Manifest,256,CHANDIGARH,India
+Jan W4,STD,M-Site,TIER 2,Pre-Manifest,398,CHHATTISGARH,India
+Jan W4,STD,PC,TIER 2,Pre-Manifest,318,DADRA & NAGAR HAVELI,India
+Jan W4,STD,PC,TIER 2,Pre-Manifest,1280,DAMAN & DIU,India
+Jan W4,STD,PC,TIER 2,Pre-Manifest,50,GOA,India
+Jan W4,STD,PC,TIER 2,Pre-Manifest,659,GOA,India
+Jan W4,STD,PC,TIER 2,Pre-Manifest,469,GUJARAT,India
+Jan W4,STD,PC,TIER 2,Pre-Manifest,643,GUJARAT,India
+Mar W1,COD,APP,TIER 2,Pre-Manifest,1980,HARYANA,India
+Mar W1,COD,APP,TIER 2,Pre-Manifest,1733,HARYANA,India
+Mar W1,COD,APP,TIER 2,Pre-Manifest,1590,HIMACHAL PRADESH,India
+Mar W1,COD,APP,TIER 2,Pre-Manifest,1458,HIMACHAL PRADESH,India
+Mar W1,COD,APP,TIER 2,Pre-Manifest,2236,KARNATAKA,India
+Mar W1,COD,APP,TIER 2,Pre-Manifest,5367,KERALA,India
+Mar W1,COD,M-Site,TIER 2,Pre-Manifest,302,MADHYA PRADESH,India
+Mar W1,COD,M-Site,TIER 2,Pre-Manifest,295,MAHARASHTRA,India
+Mar W1,COD,M-Site,TIER 2,Pre-Manifest,247,MAHARASHTRA,India
+Mar W1,COD,M-Site,TIER 2,Pre-Manifest,275,PUNJAB,India
+Mar W1,COD,M-Site,TIER 2,Pre-Manifest,388,RAJASTHAN,India
+Mar W1,COD,M-Site,TIER 2,Pre-Manifest,847,RAJASTHAN,India
+Mar W1,COD,PC,TIER 2,Pre-Manifest,289,TAMIL NADU,India
+Mar W1,COD,PC,TIER 2,Pre-Manifest,357,TAMIL NADU,India
+Mar W1,COD,PC,TIER 2,Pre-Manifest,98,TELANGANA,India
+Mar W1,COD,PC,TIER 2,Pre-Manifest,262,UTTAR PRADESH,India
+Mar W1,COD,PC,TIER 2,Pre-Manifest,263,UTTAR PRADESH,India
+Mar W1,COD,PC,TIER 2,Pre-Manifest,464,UTTARAKHAND,India
+Mar W1,STD,APP,TIER 2,Pre-Manifest,204,UTTARAKHAND,India
+Mar W1,STD,APP,TIER 3,Pre-Manifest,433,ANDHRA PRADESH,India
+Mar W1,STD,APP,TIER 3,Pre-Manifest,98,ANDHRA PRADESH,India
+Mar W1,STD,APP,TIER 3,Pre-Manifest,278,BIHAR,India
+Mar W1,STD,APP,TIER 3,Pre-Manifest,301,CHHATTISGARH,India
+Mar W1,STD,APP,TIER 3,Pre-Manifest,582,CHHATTISGARH,India
+Mar W1,STD,M-Site,TIER 3,Pre-Manifest,18,GUJARAT,India
+Mar W1,STD,M-Site,TIER 3,Pre-Manifest,59,GUJARAT,India
+Mar W1,STD,M-Site,TIER 3,Pre-Manifest,21,HIMACHAL PRADESH,India
+Mar W1,STD,M-Site,TIER 3,Pre-Manifest,42,HIMACHAL PRADESH,India
+Mar W1,STD,M-Site,TIER 3,Pre-Manifest,33,JAMMU & KASHMIR,India
+Mar W1,STD,M-Site,TIER 3,Pre-Manifest,65,JAMMU & KASHMIR,India
+Mar W1,STD,PC,TIER 3,Pre-Manifest,54,KARNATAKA,India
+Mar W1,STD,PC,TIER 3,Pre-Manifest,220,KARNATAKA,India
+Mar W1,STD,PC,TIER 3,Pre-Manifest,17,KERALA,India
+Mar W1,STD,PC,TIER 3,Pre-Manifest,107,MAHARASHTRA,India
+Mar W1,STD,PC,TIER 3,Pre-Manifest,76,MAHARASHTRA,India
+Mar W1,STD,PC,TIER 3,Pre-Manifest,104,PONDICHERRY,India
+Mar W2,COD,APP,TIER 3,Pre-Manifest,2166,PUNJAB,India
+Mar W2,COD,APP,TIER 3,Pre-Manifest,1987,RAJASTHAN,India
+Mar W2,COD,APP,TIER 3,Pre-Manifest,1702,RAJASTHAN,India
+Mar W2,COD,APP,TIER 3,Pre-Manifest,1626,TAMIL NADU,India
+Mar W2,COD,APP,TIER 3,Pre-Manifest,2492,TAMIL NADU,India
+Mar W2,COD,APP,TIER 3,Pre-Manifest,5191,TELANGANA,India
+Mar W2,COD,M-Site,TIER 3,Pre-Manifest,294,UTTAR PRADESH,India
+Mar W2,COD,M-Site,TIER 3,Pre-Manifest,335,UTTARAKHAND,India
+Mar W2,COD,M-Site,METRO,Pre-Manifest,237,DELHI,India
+Mar W2,COD,M-Site,METRO,Pre-Manifest,252,MAHARASHTRA,India
+Mar W2,COD,M-Site,TIER 1,Pre-Manifest,375,CHANDIGARH,India
+Mar W2,COD,M-Site,TIER 1,Pre-Manifest,731,MAHARASHTRA,India
+Mar W2,COD,PC,TIER 1,Pre-Manifest,169,RAJASTHAN,India
+Mar W2,COD,PC,TIER 1,Pre-Manifest,224,MAHARASHTRA,India
+Mar W2,COD,PC,TIER 1,Pre-Manifest,108,UTTAR PRADESH,India
+Mar W2,COD,PC,EAST,Pre-Manifest,156,ORISSA,India
+Mar W2,COD,PC,EAST,Pre-Manifest,168,WEST BENGAL,India
+Mar W2,COD,PC,EAST,Pre-Manifest,270,WEST BENGAL,India
+Mar W2,STD,APP,EAST,Pre-Manifest,266,WEST BENGAL,India
+Mar W2,STD,APP,METRO,Pre-Manifest,564,DELHI,India
+Mar W2,STD,APP,METRO,Pre-Manifest,123,DELHI,India
+Mar W2,STD,APP,METRO,Pre-Manifest,353,DELHI,India
+Mar W2,STD,APP,METRO,Pre-Manifest,345,DELHI,India
+Mar W2,STD,APP,METRO,Pre-Manifest,678,HARYANA,India
+Mar W2,STD,M-Site,METRO,Pre-Manifest,20,HARYANA,India
+Mar W2,STD,M-Site,METRO,Pre-Manifest,60,HARYANA,India
+Mar W2,STD,M-Site,METRO,Pre-Manifest,12,HARYANA,India
+Mar W2,STD,M-Site,METRO,Pre-Manifest,35,KARNATAKA,India
+Mar W2,STD,M-Site,METRO,Pre-Manifest,36,KARNATAKA,India
+Mar W2,STD,M-Site,METRO,Pre-Manifest,65,MAHARASHTRA,India
+Mar W2,STD,PC,METRO,Pre-Manifest,66,MAHARASHTRA,India
+Mar W2,STD,PC,METRO,Pre-Manifest,169,MAHARASHTRA,India
+Mar W2,STD,PC,METRO,Pre-Manifest,8,MAHARASHTRA,India
+Mar W2,STD,PC,METRO,Pre-Manifest,96,TAMIL NADU,India
+Mar W2,STD,PC,METRO,Pre-Manifest,55,TAMIL NADU,India
+Mar W2,STD,PC,METRO,Pre-Manifest,78,TELANGANA,India
+Mar W3,COD,APP,METRO,Pre-Manifest,1782,TELANGANA,India
+Mar W3,COD,APP,METRO,Pre-Manifest,1699,TELANGANA,India
+Mar W3,COD,APP,METRO,Pre-Manifest,1477,UTTAR PRADESH,India
+Mar W3,COD,APP,NE,Pre-Manifest,1477,ASSAM,India
+Mar W3,COD,APP,NE,Pre-Manifest,2198,ASSAM,India
+Mar W3,COD,APP,NE,Pre-Manifest,4731,MEGHALAYA,India
+Mar W3,COD,M-Site,NE,Pre-Manifest,286,MIZORAM,India
+Mar W3,COD,M-Site,NE,Pre-Manifest,309,SIKKIM,India
+Mar W3,COD,M-Site,NE,Pre-Manifest,198,TRIPURA,India
+Mar W3,COD,M-Site,NE,Pre-Manifest,308,TRIPURA,India
+Mar W3,COD,M-Site,TIER 1,Pre-Manifest,359,ANDHRA PRADESH,India
+Mar W3,COD,M-Site,TIER 1,Pre-Manifest,675,ANDHRA PRADESH,India
+Mar W3,COD,PC,TIER 1,Pre-Manifest,169,KARNATAKA,India
+Mar W3,COD,PC,TIER 1,Pre-Manifest,246,MADHYA PRADESH,India
+Mar W3,COD,PC,TIER 1,Pre-Manifest,91,MADHYA PRADESH,India
+Mar W3,COD,PC,TIER 1,Pre-Manifest,158,MAHARASHTRA,India
+Mar W3,COD,PC,TIER 1,Pre-Manifest,210,MAHARASHTRA,India
+Mar W3,COD,PC,TIER 1,Pre-Manifest,307,MAHARASHTRA,India
+Mar W3,STD,APP,TIER 1,Pre-Manifest,165,PUNJAB,India
+Mar W3,STD,APP,TIER 1,Pre-Manifest,419,PUNJAB,India
+Mar W3,STD,APP,TIER 1,Pre-Manifest,101,PUNJAB,India
+Mar W3,STD,APP,TIER 1,Pre-Manifest,256,RAJASTHAN,India
+Mar W3,STD,APP,TIER 1,Pre-Manifest,240,RAJASTHAN,India
+Mar W3,STD,APP,TIER 1,Pre-Manifest,507,TAMIL NADU,India
+Mar W3,STD,M-Site,TIER 1,Pre-Manifest,19,TAMIL NADU,India
+Mar W3,STD,M-Site,TIER 1,Pre-Manifest,54,TELANGANA,India
+Mar W3,STD,M-Site,TIER 1,Pre-Manifest,11,TELANGANA,India
+Mar W3,STD,M-Site,TIER 1,Pre-Manifest,30,UTTAR PRADESH,India
+Mar W3,STD,M-Site,TIER 1,Pre-Manifest,24,UTTAR PRADESH,India
+Mar W3,STD,M-Site,TIER 1,Pre-Manifest,60,UTTAR PRADESH,India
+Mar W3,STD,PC,TIER 1,Pre-Manifest,37,UTTARAKHAND,India
+Mar W3,STD,PC,TIER 1,Pre-Manifest,145,UTTARAKHAND,India
+Mar W3,STD,PC,TIER 2,Pre-Manifest,2,ANDHRA PRADESH,India
+Mar W3,STD,PC,TIER 2,Pre-Manifest,64,ANDHRA PRADESH,India
+Mar W3,STD,PC,TIER 2,Pre-Manifest,63,BIHAR,India
+Mar W3,STD,PC,TIER 2,Pre-Manifest,87,CHHATTISGARH,India
+Apr W1,COD,APP,TIER 2,Pre-Manifest,1447,CHHATTISGARH,India
+Apr W1,COD,APP,TIER 2,Pre-Manifest,1247,DADRA & NAGAR HAVELI,India
+Apr W1,COD,APP,TIER 2,Pre-Manifest,1438,DADRA & NAGAR HAVELI,India
+Apr W1,COD,APP,TIER 2,Pre-Manifest,1226,GOA,India
+Apr W1,COD,APP,TIER 2,Pre-Manifest,1764,GOA,India
+Apr W1,COD,APP,TIER 2,Pre-Manifest,3579,HARYANA,India
+Apr W1,COD,M-Site,TIER 2,Pre-Manifest,300,HARYANA,India
+Apr W1,COD,M-Site,TIER 2,Pre-Manifest,308,HIMACHAL PRADESH,India
+Apr W1,COD,M-Site,TIER 2,Pre-Manifest,316,HIMACHAL PRADESH,India
+Apr W1,COD,M-Site,TIER 2,Pre-Manifest,303,JHARKHAND,India
+Apr W1,COD,M-Site,TIER 2,Pre-Manifest,369,KARNATAKA,India
+Apr W1,COD,M-Site,TIER 2,Pre-Manifest,720,KARNATAKA,India
+Apr W1,COD,PC,TIER 2,Pre-Manifest,155,MADHYA PRADESH,India
+Apr W1,COD,PC,TIER 2,Pre-Manifest,243,MAHARASHTRA,India
+Apr W1,COD,PC,TIER 2,Pre-Manifest,60,MAHARASHTRA,India
+Apr W1,COD,PC,TIER 2,Pre-Manifest,157,MAHARASHTRA,India
+Apr W1,COD,PC,TIER 2,Pre-Manifest,167,MAHARASHTRA,India
+Apr W1,COD,PC,TIER 2,Pre-Manifest,267,PUNJAB,India
+Apr W1,STD,APP,TIER 2,Pre-Manifest,166,PUNJAB,India
+Apr W1,STD,APP,TIER 2,Pre-Manifest,340,PUNJAB,India
+Apr W1,STD,APP,TIER 2,Pre-Manifest,59,RAJASTHAN,India
+Apr W1,STD,APP,TIER 2,Pre-Manifest,215,RAJASTHAN,India
+Apr W1,STD,APP,TIER 2,Pre-Manifest,180,TAMIL NADU,India
+Apr W1,STD,APP,TIER 2,Pre-Manifest,379,TAMIL NADU,India
+Apr W1,STD,M-Site,TIER 2,Pre-Manifest,15,TELANGANA,India
+Apr W1,STD,M-Site,TIER 2,Pre-Manifest,66,UTTAR PRADESH,India
+Apr W1,STD,M-Site,TIER 2,Pre-Manifest,4,UTTAR PRADESH,India
+Apr W1,STD,M-Site,TIER 2,Pre-Manifest,20,UTTARAKHAND,India
+Apr W1,STD,M-Site,TIER 2,Pre-Manifest,25,UTTARAKHAND,India
+Apr W1,STD,M-Site,TIER 3,Pre-Manifest,58,ANDHRA PRADESH,India
+Apr W1,STD,PC,TIER 3,Pre-Manifest,34,ANDHRA PRADESH,India
+Apr W1,STD,PC,TIER 3,Pre-Manifest,144,BIHAR,India
+Apr W1,STD,PC,TIER 3,Pre-Manifest,7,BIHAR,India
+Apr W1,STD,PC,TIER 3,Pre-Manifest,87,CHHATTISGARH,India
+Apr W1,STD,PC,TIER 3,Pre-Manifest,48,CHHATTISGARH,India
+Apr W1,STD,PC,TIER 3,Pre-Manifest,64,DAMAN & DIU,India
+Apr W2,COD,APP,TIER 3,Pre-Manifest,2898,DAMAN & DIU,India
+Apr W2,COD,APP,TIER 3,Pre-Manifest,2768,HARYANA,India
+Apr W2,COD,APP,TIER 3,Pre-Manifest,2320,HARYANA,India
+Apr W2,COD,APP,TIER 3,Pre-Manifest,2514,HIMACHAL PRADESH,India
+Apr W2,COD,APP,TIER 3,Pre-Manifest,3751,HIMACHAL PRADESH,India
+Apr W2,COD,APP,TIER 3,Pre-Manifest,7910,JHARKHAND,India
+Apr W2,COD,M-Site,TIER 3,Pre-Manifest,622,KARNATAKA,India
+Apr W2,COD,M-Site,TIER 3,Pre-Manifest,639,KARNATAKA,India
+Apr W2,COD,M-Site,TIER 3,Pre-Manifest,446,MADHYA PRADESH,India
+Apr W2,COD,M-Site,TIER 3,Pre-Manifest,584,MADHYA PRADESH,India
+Apr W2,COD,M-Site,TIER 3,Pre-Manifest,941,MAHARASHTRA,India
+Apr W2,COD,M-Site,TIER 3,Pre-Manifest,1659,MAHARASHTRA,India
+Apr W2,COD,PC,TIER 3,Pre-Manifest,379,MAHARASHTRA,India
+Apr W2,COD,PC,TIER 3,Pre-Manifest,683,PONDICHERRY,India
+Apr W2,COD,PC,TIER 3,Pre-Manifest,154,PUNJAB,India
+Apr W2,COD,PC,TIER 3,Pre-Manifest,392,PUNJAB,India
+Apr W2,COD,PC,TIER 3,Pre-Manifest,463,PUNJAB,India
+Apr W2,COD,PC,TIER 3,Pre-Manifest,698,RAJASTHAN,India
+Apr W2,STD,APP,TIER 3,Pre-Manifest,272,RAJASTHAN,India
+Apr W2,STD,APP,TIER 3,Pre-Manifest,690,TAMIL NADU,India
+Apr W2,STD,APP,TIER 3,Pre-Manifest,135,TAMIL NADU,India
+Apr W2,STD,APP,TIER 3,Pre-Manifest,454,TELANGANA,India
+Apr W2,STD,APP,TIER 3,Pre-Manifest,420,TELANGANA,India
+Apr W2,STD,APP,TIER 3,Pre-Manifest,735,UTTAR PRADESH,India
+Apr W2,STD,M-Site,TIER 3,Pre-Manifest,41,UTTAR PRADESH,India
+Apr W2,STD,M-Site,TIER 3,Pre-Manifest,109,UTTARAKHAND,India
+Apr W2,STD,M-Site,TIER 3,Pre-Manifest,17,UTTARAKHAND,India
+Apr W2,STD,M-Site,EAST,Pre-Manifest,72,ORISSA,India
+Apr W2,STD,M-Site,EAST,Pre-Manifest,69,WEST BENGAL,India
+Apr W2,STD,M-Site,EAST,Pre-Manifest,113,WEST BENGAL,India
+Apr W2,STD,PC,METRO,Pre-Manifest,59,DELHI,India
+Apr W2,STD,PC,METRO,Pre-Manifest,337,DELHI,India
+Apr W2,STD,PC,METRO,Pre-Manifest,19,DELHI,India
+Apr W2,STD,PC,METRO,Pre-Manifest,164,HARYANA,India
+Apr W2,STD,PC,METRO,Pre-Manifest,101,HARYANA,India
+Apr W2,STD,PC,METRO,Pre-Manifest,148,HARYANA,India
+Mar W4,COD,APP,METRO,Pre-Manifest,1960,KARNATAKA,India
+Mar W4,COD,APP,METRO,Pre-Manifest,1743,MAHARASHTRA,India
+Mar W4,COD,APP,METRO,Pre-Manifest,1738,TAMIL NADU,India
+Mar W4,COD,APP,METRO,Pre-Manifest,1471,TELANGANA,India
+Mar W4,COD,APP,METRO,Pre-Manifest,2331,TELANGANA,India
+Mar W4,COD,APP,NE,Pre-Manifest,5081,ASSAM,India
+Mar W4,COD,M-Site,NE,Pre-Manifest,379,ASSAM,India
+Mar W4,COD,M-Site,NE,Pre-Manifest,366,MEGHALAYA,India
+Mar W4,COD,M-Site,NE,Pre-Manifest,324,MIZORAM,India
+Mar W4,COD,M-Site,NE,Pre-Manifest,348,SIKKIM,India
+Mar W4,COD,M-Site,NE,Pre-Manifest,449,TRIPURA,India
+Mar W4,COD,M-Site,TIER 1,Pre-Manifest,979,ANDHRA PRADESH,India
+Mar W4,COD,PC,TIER 1,Pre-Manifest,214,KARNATAKA,India
+Mar W4,COD,PC,TIER 1,Pre-Manifest,267,MADHYA PRADESH,India
+Mar W4,COD,PC,TIER 1,Pre-Manifest,90,MAHARASHTRA,India
+Mar W4,COD,PC,TIER 1,Pre-Manifest,213,PONDICHERRY,India
+Mar W4,COD,PC,TIER 1,Pre-Manifest,222,PUNJAB,India
+Mar W4,COD,PC,TIER 1,Pre-Manifest,367,RAJASTHAN,India
+Mar W4,STD,APP,TIER 1,Pre-Manifest,164,RAJASTHAN,India
+Mar W4,STD,APP,TIER 1,Pre-Manifest,333,TAMIL NADU,India
+Mar W4,STD,APP,TIER 1,Pre-Manifest,107,TAMIL NADU,India
+Mar W4,STD,APP,TIER 1,Pre-Manifest,252,TELANGANA,India
+Mar W4,STD,APP,TIER 1,Pre-Manifest,220,TELANGANA,India
+Mar W4,STD,APP,TIER 1,Pre-Manifest,415,UTTAR PRADESH,India
+Mar W4,STD,M-Site,TIER 1,Pre-Manifest,29,UTTAR PRADESH,India
+Mar W4,STD,M-Site,TIER 1,Pre-Manifest,48,UTTAR PRADESH,India
+Mar W4,STD,M-Site,TIER 1,Pre-Manifest,11,UTTARAKHAND,India
+Mar W4,STD,M-Site,TIER 2,Pre-Manifest,42,ANDHRA PRADESH,India
+Mar W4,STD,M-Site,TIER 2,Pre-Manifest,38,ANDHRA PRADESH,India
+Mar W4,STD,M-Site,TIER 2,Pre-Manifest,63,BIHAR,India
+Mar W4,STD,PC,TIER 2,Pre-Manifest,54,CHHATTISGARH,India
+Mar W4,STD,PC,TIER 2,Pre-Manifest,151,DADRA & NAGAR HAVELI,India
+Mar W4,STD,PC,TIER 2,Pre-Manifest,13,GOA,India
+Mar W4,STD,PC,TIER 2,Pre-Manifest,114,HIMACHAL PRADESH,India
+Mar W4,STD,PC,TIER 2,Pre-Manifest,66,JHARKHAND,India
+Mar W4,STD,PC,TIER 2,Pre-Manifest,94,KARNATAKA,India
+Feb W1,COD,APP,TIER 2,M2S,573,KARNATAKA,India
+Feb W1,COD,APP,TIER 2,M2S,537,MADHYA PRADESH,India
+Feb W1,COD,APP,TIER 2,M2S,394,MADHYA PRADESH,India
+Feb W1,COD,APP,TIER 2,M2S,508,MAHARASHTRA,India
+Feb W1,COD,APP,TIER 2,M2S,718,MAHARASHTRA,India
+Feb W1,COD,APP,TIER 2,M2S,1278,MAHARASHTRA,India
+Feb W1,COD,M-Site,TIER 2,M2S,93,MAHARASHTRA,India
+Feb W1,COD,M-Site,TIER 2,M2S,128,PUNJAB,India
+Feb W1,COD,M-Site,TIER 2,M2S,61,PUNJAB,India
+Feb W1,COD,M-Site,TIER 2,M2S,104,RAJASTHAN,India
+Feb W1,COD,M-Site,TIER 2,M2S,115,RAJASTHAN,India
+Feb W1,COD,M-Site,TIER 2,M2S,210,RAJASTHAN,India
+Feb W1,COD,PC,TIER 2,M2S,87,TAMIL NADU,India
+Feb W1,COD,PC,TIER 2,M2S,111,UTTAR PRADESH,India
+Feb W1,COD,PC,TIER 2,M2S,39,UTTAR PRADESH,India
+Feb W1,COD,PC,TIER 2,M2S,76,UTTARAKHAND,India
+Feb W1,COD,PC,TIER 2,M2S,98,UTTARAKHAND,India
+Feb W1,COD,PC,TIER 3,M2S,154,ANDHRA PRADESH,India
+Feb W1,STD,APP,TIER 3,M2S,75,BIHAR,India
+Feb W1,STD,APP,TIER 3,M2S,200,CHHATTISGARH,India
+Feb W1,STD,APP,TIER 3,M2S,26,CHHATTISGARH,India
+Feb W1,STD,APP,TIER 3,M2S,130,HARYANA,India
+Feb W1,STD,APP,TIER 3,M2S,124,HARYANA,India
+Feb W1,STD,APP,TIER 3,M2S,180,HIMACHAL PRADESH,India
+Feb W1,STD,M-Site,TIER 3,M2S,6,HIMACHAL PRADESH,India
+Feb W1,STD,M-Site,TIER 3,M2S,38,JHARKHAND,India
+Feb W1,STD,M-Site,TIER 3,M2S,3,JHARKHAND,India
+Feb W1,STD,M-Site,TIER 3,M2S,26,KARNATAKA,India
+Feb W1,STD,M-Site,TIER 3,M2S,10,KARNATAKA,India
+Feb W1,STD,M-Site,TIER 3,M2S,36,MADHYA PRADESH,India
+Feb W1,STD,PC,TIER 3,M2S,25,MAHARASHTRA,India
+Feb W1,STD,PC,TIER 3,M2S,103,MAHARASHTRA,India
+Feb W1,STD,PC,TIER 3,M2S,5,MAHARASHTRA,India
+Feb W1,STD,PC,TIER 3,M2S,47,PONDICHERRY,India
+Feb W1,STD,PC,TIER 3,M2S,41,PUNJAB,India
+Feb W1,STD,PC,TIER 3,M2S,59,PUNJAB,India
+Feb W2,COD,APP,TIER 3,M2S,523,RAJASTHAN,India
+Feb W2,COD,APP,TIER 3,M2S,556,RAJASTHAN,India
+Feb W2,COD,APP,TIER 3,M2S,318,TAMIL NADU,India
+Feb W2,COD,APP,TIER 3,M2S,461,TAMIL NADU,India
+Feb W2,COD,APP,TIER 3,M2S,698,UTTAR PRADESH,India
+Feb W2,COD,APP,TIER 3,M2S,1335,UTTAR PRADESH,India
+Feb W2,COD,M-Site,TIER 3,M2S,80,UTTARAKHAND,India
+Feb W2,COD,M-Site,TIER 3,M2S,112,UTTARAKHAND,India
+Feb W2,COD,M-Site,EAST,M2S,60,ORISSA,India
+Feb W2,COD,M-Site,EAST,M2S,104,WEST BENGAL,India
+Feb W2,COD,M-Site,EAST,M2S,129,WEST BENGAL,India
+Feb W2,COD,M-Site,METRO,M2S,216,DELHI,India
+Feb W2,COD,PC,METRO,M2S,101,DELHI,India
+Feb W2,COD,PC,METRO,M2S,128,DELHI,India
+Feb W2,COD,PC,METRO,M2S,18,DELHI,India
+Feb W2,COD,PC,METRO,M2S,87,HARYANA,India
+Feb W2,COD,PC,METRO,M2S,116,HARYANA,India
+Feb W2,COD,PC,METRO,M2S,127,KARNATAKA,India
+Feb W2,STD,APP,METRO,M2S,88,MAHARASHTRA,India
+Feb W2,STD,APP,METRO,M2S,191,MAHARASHTRA,India
+Feb W2,STD,APP,METRO,M2S,32,TAMIL NADU,India
+Feb W2,STD,APP,METRO,M2S,120,TELANGANA,India
+Feb W2,STD,APP,NE,M2S,117,ASSAM,India
+Feb W2,STD,APP,NE,M2S,185,ASSAM,India
+Feb W2,STD,M-Site,NE,M2S,13,MEGHALAYA,India
+Feb W2,STD,M-Site,NE,M2S,34,SIKKIM,India
+Feb W2,STD,M-Site,NE,M2S,6,TRIPURA,India
+Feb W2,STD,M-Site,TIER 1,M2S,15,KARNATAKA,India
+Feb W2,STD,M-Site,TIER 1,M2S,19,MADHYA PRADESH,India
+Feb W2,STD,M-Site,TIER 1,M2S,26,MADHYA PRADESH,India
+Feb W2,STD,PC,TIER 1,M2S,30,MAHARASHTRA,India
+Feb W2,STD,PC,TIER 1,M2S,92,PUNJAB,India
+Feb W2,STD,PC,TIER 1,M2S,2,PUNJAB,India
+Feb W2,STD,PC,TIER 1,M2S,47,RAJASTHAN,India
+Feb W2,STD,PC,TIER 1,M2S,34,TAMIL NADU,India
+Feb W2,STD,PC,TIER 1,M2S,50,UTTAR PRADESH,India
+Feb W3,COD,APP,TIER 1,M2S,492,UTTAR PRADESH,India
+Feb W3,COD,APP,TIER 1,M2S,457,UTTAR PRADESH,India
+Feb W3,COD,APP,TIER 1,M2S,340,UTTARAKHAND,India
+Feb W3,COD,APP,TIER 1,M2S,427,UTTARAKHAND,India
+Feb W3,COD,APP,TIER 2,M2S,640,ANDHRA PRADESH,India
+Feb W3,COD,APP,TIER 2,M2S,1138,ANDHRA PRADESH,India
+Feb W3,COD,M-Site,TIER 2,M2S,92,BIHAR,India
+Feb W3,COD,M-Site,TIER 2,M2S,99,CHHATTISGARH,India
+Feb W3,COD,M-Site,TIER 2,M2S,57,GOA,India
+Feb W3,COD,M-Site,TIER 2,M2S,84,GOA,India
+Feb W3,COD,M-Site,TIER 2,M2S,118,HIMACHAL PRADESH,India
+Feb W3,COD,M-Site,TIER 2,M2S,202,HIMACHAL PRADESH,India
+Feb W3,COD,PC,TIER 2,M2S,65,JHARKHAND,India
+Feb W3,COD,PC,TIER 2,M2S,142,KARNATAKA,India
+Feb W3,COD,PC,TIER 2,M2S,28,MADHYA PRADESH,India
+Feb W3,COD,PC,TIER 2,M2S,88,MAHARASHTRA,India
+Feb W3,COD,PC,TIER 2,M2S,82,MAHARASHTRA,India
+Feb W3,COD,PC,TIER 2,M2S,132,MAHARASHTRA,India
+Feb W3,STD,APP,TIER 2,M2S,74,PUNJAB,India
+Feb W3,STD,APP,TIER 2,M2S,183,PUNJAB,India
+Feb W3,STD,APP,TIER 2,M2S,31,RAJASTHAN,India
+Feb W3,STD,APP,TIER 2,M2S,97,RAJASTHAN,India
+Feb W3,STD,APP,TIER 2,M2S,98,TAMIL NADU,India
+Feb W3,STD,APP,TIER 2,M2S,203,UTTAR PRADESH,India
+Feb W3,STD,M-Site,TIER 2,M2S,18,UTTAR PRADESH,India
+Feb W3,STD,M-Site,TIER 2,M2S,26,UTTARAKHAND,India
+Feb W3,STD,M-Site,TIER 2,M2S,7,UTTARAKHAND,India
+Feb W3,STD,M-Site,TIER 3,M2S,23,ANDHRA PRADESH,India
+Feb W3,STD,M-Site,TIER 3,M2S,19,BIHAR,India
+Feb W3,STD,M-Site,TIER 3,M2S,24,CHHATTISGARH,India
+Feb W3,STD,PC,TIER 3,M2S,26,CHHATTISGARH,India
+Feb W3,STD,PC,TIER 3,M2S,103,HARYANA,India
+Feb W3,STD,PC,TIER 3,M2S,9,HIMACHAL PRADESH,India
+Feb W3,STD,PC,TIER 3,M2S,45,HIMACHAL PRADESH,India
+Feb W3,STD,PC,TIER 3,M2S,37,JHARKHAND,India
+Feb W3,STD,PC,TIER 3,M2S,69,KARNATAKA,India
+Feb W4,COD,APP,TIER 3,M2S,549,KARNATAKA,India
+Feb W4,COD,APP,TIER 3,M2S,540,MADHYA PRADESH,India
+Feb W4,COD,APP,TIER 3,M2S,417,MAHARASHTRA,India
+Feb W4,COD,APP,TIER 3,M2S,455,MAHARASHTRA,India
+Feb W4,COD,APP,TIER 3,M2S,744,PONDICHERRY,India
+Feb W4,COD,APP,TIER 3,M2S,1397,PONDICHERRY,India
+Feb W4,COD,M-Site,TIER 3,M2S,104,PUNJAB,India
+Feb W4,COD,M-Site,TIER 3,M2S,117,PUNJAB,India
+Feb W4,COD,M-Site,TIER 3,M2S,52,PUNJAB,India
+Feb W4,COD,M-Site,TIER 3,M2S,100,RAJASTHAN,India
+Feb W4,COD,M-Site,TIER 3,M2S,136,TAMIL NADU,India
+Feb W4,COD,M-Site,TIER 3,M2S,230,TAMIL NADU,India
+Feb W4,COD,PC,TIER 3,M2S,98,TELANGANA,India
+Feb W4,COD,PC,TIER 3,M2S,108,UTTAR PRADESH,India
+Feb W4,COD,PC,TIER 3,M2S,40,UTTAR PRADESH,India
+Feb W4,COD,PC,TIER 3,M2S,108,UTTARAKHAND,India
+Feb W4,COD,PC,TIER 3,M2S,96,UTTARAKHAND,India
+Feb W4,COD,PC,EAST,M2S,145,ORISSA,India
+Feb W4,STD,APP,EAST,M2S,105,WEST BENGAL,India
+Feb W4,STD,APP,METRO,M2S,169,DELHI,India
+Feb W4,STD,APP,METRO,M2S,40,DELHI,India
+Feb W4,STD,APP,METRO,M2S,115,DELHI,India
+Feb W4,STD,APP,METRO,M2S,133,DELHI,India
+Feb W4,STD,APP,METRO,M2S,298,HARYANA,India
+Feb W4,STD,M-Site,METRO,M2S,15,HARYANA,India
+Feb W4,STD,M-Site,METRO,M2S,33,HARYANA,India
+Feb W4,STD,M-Site,METRO,M2S,7,HARYANA,India
+Feb W4,STD,M-Site,METRO,M2S,29,KARNATAKA,India
+Feb W4,STD,M-Site,METRO,M2S,28,KARNATAKA,India
+Feb W4,STD,M-Site,METRO,M2S,51,KARNATAKA,India
+Feb W4,STD,PC,METRO,M2S,18,KARNATAKA,India
+Feb W4,STD,PC,METRO,M2S,85,MAHARASHTRA,India
+Feb W4,STD,PC,METRO,M2S,8,MAHARASHTRA,India
+Feb W4,STD,PC,METRO,M2S,52,MAHARASHTRA,India
+Feb W4,STD,PC,METRO,M2S,37,MAHARASHTRA,India
+Feb W4,STD,PC,METRO,M2S,69,TAMIL NADU,India
+Jan W1,COD,APP,METRO,M2S,901,TAMIL NADU,India
+Jan W1,COD,APP,METRO,M2S,982,TELANGANA,India
+Jan W1,COD,APP,METRO,M2S,437,TELANGANA,India
+Jan W1,COD,APP,METRO,M2S,884,UTTAR PRADESH,India
+Jan W1,COD,APP,NE,M2S,1176,ASSAM,India
+Jan W1,COD,APP,NE,M2S,2140,MEGHALAYA,India
+Jan W1,COD,M-Site,NE,M2S,38,MIZORAM,India
+Jan W1,COD,M-Site,NE,M2S,57,SIKKIM,India
+Jan W1,COD,M-Site,NE,M2S,21,TRIPURA,India
+Jan W1,COD,M-Site,TIER 1,M2S,56,ANDHRA PRADESH,India
+Jan W1,COD,M-Site,TIER 1,M2S,54,KARNATAKA,India
+Jan W1,COD,M-Site,TIER 1,M2S,127,KERALA,India
+Jan W1,COD,PC,TIER 1,M2S,22,KERALA,India
+Jan W1,COD,PC,TIER 1,M2S,36,MADHYA PRADESH,India
+Jan W1,COD,PC,TIER 1,M2S,9,MADHYA PRADESH,India
+Jan W1,COD,PC,TIER 1,M2S,29,MAHARASHTRA,India
+Jan W1,COD,PC,TIER 1,M2S,42,MAHARASHTRA,India
+Jan W1,COD,PC,TIER 1,M2S,48,MAHARASHTRA,India
+Jan W1,STD,APP,TIER 1,M2S,119,PUNJAB,India
+Jan W1,STD,APP,TIER 1,M2S,402,PUNJAB,India
+Jan W1,STD,APP,TIER 1,M2S,26,RAJASTHAN,India
+Jan W1,STD,APP,TIER 1,M2S,285,RAJASTHAN,India
+Jan W1,STD,APP,TIER 1,M2S,206,TAMIL NADU,India
+Jan W1,STD,APP,TIER 1,M2S,330,TELANGANA,India
+Jan W1,STD,M-Site,TIER 1,M2S,6,UTTAR PRADESH,India
+Jan W1,STD,M-Site,TIER 1,M2S,25,UTTAR PRADESH,India
+Jan W1,STD,M-Site,TIER 1,M2S,3,UTTAR PRADESH,India
+Jan W1,STD,M-Site,TIER 1,M2S,18,UTTARAKHAND,India
+Jan W1,STD,M-Site,TIER 1,M2S,17,UTTARAKHAND,India
+Jan W1,STD,M-Site,TIER 2,M2S,24,ANDHRA PRADESH,India
+Jan W1,STD,PC,TIER 2,M2S,17,ANDHRA PRADESH,India
+Jan W1,STD,PC,TIER 2,M2S,122,BIHAR,India
+Jan W1,STD,PC,TIER 2,M2S,2,CHHATTISGARH,India
+Jan W1,STD,PC,TIER 2,M2S,65,CHHATTISGARH,India
+Jan W1,STD,PC,TIER 2,M2S,42,DADRA & NAGAR HAVELI,India
+Jan W1,STD,PC,TIER 2,M2S,41,GOA,India
+Jan W2,COD,APP,TIER 2,M2S,952,HARYANA,India
+Jan W2,COD,APP,TIER 2,M2S,1070,HARYANA,India
+Jan W2,COD,APP,TIER 2,M2S,424,HIMACHAL PRADESH,India
+Jan W2,COD,APP,TIER 2,M2S,938,JHARKHAND,India
+Jan W2,COD,APP,TIER 2,M2S,1249,KARNATAKA,India
+Jan W2,COD,APP,TIER 2,M2S,2004,KARNATAKA,India
+Jan W2,COD,M-Site,TIER 2,M2S,50,KERALA,India
+Jan W2,COD,M-Site,TIER 2,M2S,84,MADHYA PRADESH,India
+Jan W2,COD,M-Site,TIER 2,M2S,17,MAHARASHTRA,India
+Jan W2,COD,M-Site,TIER 2,M2S,63,MAHARASHTRA,India
+Jan W2,COD,M-Site,TIER 2,M2S,101,PUNJAB,India
+Jan W2,COD,M-Site,TIER 2,M2S,96,PUNJAB,India
+Jan W2,COD,PC,TIER 2,M2S,28,RAJASTHAN,India
+Jan W2,COD,PC,TIER 2,M2S,46,RAJASTHAN,India
+Jan W2,COD,PC,TIER 2,M2S,4,TAMIL NADU,India
+Jan W2,COD,PC,TIER 2,M2S,36,TAMIL NADU,India
+Jan W2,COD,PC,TIER 2,M2S,40,UTTAR PRADESH,India
+Jan W2,COD,PC,TIER 2,M2S,36,UTTAR PRADESH,India
+Jan W2,STD,APP,TIER 2,M2S,137,UTTARAKHAND,India
+Jan W2,STD,APP,TIER 2,M2S,567,UTTARAKHAND,India
+Jan W2,STD,APP,TIER 3,M2S,31,ANDHRA PRADESH,India
+Jan W2,STD,APP,TIER 3,M2S,310,ANDHRA PRADESH,India
+Jan W2,STD,APP,TIER 3,M2S,258,BIHAR,India
+Jan W2,STD,APP,TIER 3,M2S,356,CHHATTISGARH,India
+Jan W2,STD,M-Site,TIER 3,M2S,6,DAMAN & DIU,India
+Jan W2,STD,M-Site,TIER 3,M2S,43,HARYANA,India
+Jan W2,STD,M-Site,TIER 3,M2S,1,HARYANA,India
+Jan W2,STD,M-Site,TIER 3,M2S,26,HARYANA,India
+Jan W2,STD,M-Site,TIER 3,M2S,18,HIMACHAL PRADESH,India
+Jan W2,STD,M-Site,TIER 3,M2S,21,HIMACHAL PRADESH,India
+Jan W2,STD,PC,TIER 3,M2S,16,JHARKHAND,India
+Jan W2,STD,PC,TIER 3,M2S,123,KARNATAKA,India
+Jan W2,STD,PC,TIER 3,M2S,1,KARNATAKA,India
+Jan W2,STD,PC,TIER 3,M2S,71,KERALA,India
+Jan W2,STD,PC,TIER 3,M2S,43,KERALA,India
+Jan W2,STD,PC,TIER 3,M2S,49,MADHYA PRADESH,India
+Jan W3,COD,APP,TIER 3,M2S,935,MAHARASHTRA,India
+Jan W3,COD,APP,TIER 3,M2S,1020,MAHARASHTRA,India
+Jan W3,COD,APP,TIER 3,M2S,504,MAHARASHTRA,India
+Jan W3,COD,APP,TIER 3,M2S,931,MAHARASHTRA,India
+Jan W3,COD,APP,TIER 3,M2S,1146,PUNJAB,India
+Jan W3,COD,APP,TIER 3,M2S,1982,PUNJAB,India
+Jan W3,COD,M-Site,TIER 3,M2S,55,RAJASTHAN,India
+Jan W3,COD,M-Site,TIER 3,M2S,58,RAJASTHAN,India
+Jan W3,COD,M-Site,TIER 3,M2S,21,TAMIL NADU,India
+Jan W3,COD,M-Site,TIER 3,M2S,48,UTTAR PRADESH,India
+Jan W3,COD,M-Site,TIER 3,M2S,77,UTTAR PRADESH,India
+Jan W3,COD,M-Site,TIER 3,M2S,124,UTTARAKHAND,India
+Jan W3,COD,PC,TIER 3,M2S,27,UTTARAKHAND,India
+Jan W3,COD,PC,EAST,M2S,40,WEST BENGAL,India
+Jan W3,COD,PC,METRO,M2S,13,DELHI,India
+Jan W3,COD,PC,METRO,M2S,35,DELHI,India
+Jan W3,COD,PC,METRO,M2S,35,DELHI,India
+Jan W3,COD,PC,METRO,M2S,65,HARYANA,India
+Jan W3,STD,APP,METRO,M2S,146,HARYANA,India
+Jan W3,STD,APP,METRO,M2S,466,KARNATAKA,India
+Jan W3,STD,APP,METRO,M2S,41,KARNATAKA,India
+Jan W3,STD,APP,METRO,M2S,261,MAHARASHTRA,India
+Jan W3,STD,APP,METRO,M2S,261,MAHARASHTRA,India
+Jan W3,STD,APP,METRO,M2S,342,MAHARASHTRA,India
+Jan W3,STD,M-Site,METRO,M2S,12,TAMIL NADU,India
+Jan W3,STD,M-Site,METRO,M2S,21,TELANGANA,India
+Jan W3,STD,M-Site,METRO,M2S,5,TELANGANA,India
+Jan W3,STD,M-Site,NE,M2S,19,ASSAM,India
+Jan W3,STD,M-Site,NE,M2S,26,SIKKIM,India
+Jan W3,STD,M-Site,NE,M2S,25,TRIPURA,India
+Jan W3,STD,PC,TIER 1,M2S,22,KARNATAKA,India
+Jan W3,STD,PC,TIER 1,M2S,111,KERALA,India
+Jan W3,STD,PC,TIER 1,M2S,3,KERALA,India
+Jan W3,STD,PC,TIER 1,M2S,65,MAHARASHTRA,India
+Jan W3,STD,PC,TIER 1,M2S,26,MAHARASHTRA,India
+Jan W3,STD,PC,TIER 1,M2S,40,PUNJAB,India
+Jan W4,COD,APP,TIER 1,M2S,1044,TAMIL NADU,India
+Jan W4,COD,APP,TIER 1,M2S,1009,TELANGANA,India
+Jan W4,COD,APP,TIER 1,M2S,686,UTTAR PRADESH,India
+Jan W4,COD,APP,TIER 1,M2S,912,UTTAR PRADESH,India
+Jan W4,COD,APP,TIER 1,M2S,1391,UTTAR PRADESH,India
+Jan W4,COD,APP,TIER 2,M2S,2437,ANDHRA PRADESH,India
+Jan W4,COD,M-Site,TIER 2,M2S,41,CHHATTISGARH,India
+Jan W4,COD,M-Site,TIER 2,M2S,58,DADRA & NAGAR HAVELI,India
+Jan W4,COD,M-Site,TIER 2,M2S,39,GOA,India
+Jan W4,COD,M-Site,TIER 2,M2S,50,JHARKHAND,India
+Jan W4,COD,M-Site,TIER 2,M2S,75,KARNATAKA,India
+Jan W4,COD,M-Site,TIER 2,M2S,146,KERALA,India
+Jan W4,COD,PC,TIER 2,M2S,39,KERALA,India
+Jan W4,COD,PC,TIER 2,M2S,51,MADHYA PRADESH,India
+Jan W4,COD,PC,TIER 2,M2S,12,MAHARASHTRA,India
+Jan W4,COD,PC,TIER 2,M2S,38,MAHARASHTRA,India
+Jan W4,COD,PC,TIER 2,M2S,37,MAHARASHTRA,India
+Jan W4,COD,PC,TIER 2,M2S,84,PUNJAB,India
+Jan W4,STD,APP,TIER 2,M2S,131,PUNJAB,India
+Jan W4,STD,APP,TIER 2,M2S,461,RAJASTHAN,India
+Jan W4,STD,APP,TIER 2,M2S,34,TAMIL NADU,India
+Jan W4,STD,APP,TIER 2,M2S,246,UTTAR PRADESH,India
+Jan W4,STD,APP,TIER 2,M2S,266,UTTAR PRADESH,India
+Jan W4,STD,APP,TIER 2,M2S,366,UTTARAKHAND,India
+Jan W4,STD,M-Site,TIER 3,M2S,15,BIHAR,India
+Jan W4,STD,M-Site,TIER 3,M2S,29,CHHATTISGARH,India
+Jan W4,STD,M-Site,TIER 3,M2S,3,HARYANA,India
+Jan W4,STD,M-Site,TIER 3,M2S,25,HIMACHAL PRADESH,India
+Jan W4,STD,M-Site,TIER 3,M2S,18,HIMACHAL PRADESH,India
+Jan W4,STD,M-Site,TIER 3,M2S,29,KARNATAKA,India
+Jan W4,STD,PC,TIER 3,M2S,28,KARNATAKA,India
+Jan W4,STD,PC,TIER 3,M2S,96,KERALA,India
+Jan W4,STD,PC,TIER 3,M2S,3,KERALA,India
+Jan W4,STD,PC,TIER 3,M2S,36,MADHYA PRADESH,India
+Jan W4,STD,PC,TIER 3,M2S,38,MAHARASHTRA,India
+Jan W4,STD,PC,TIER 3,M2S,53,MAHARASHTRA,India
+Mar W1,COD,APP,TIER 3,M2S,348,PUNJAB,India
+Mar W1,COD,APP,TIER 3,M2S,400,PUNJAB,India
+Mar W1,COD,APP,TIER 3,M2S,282,RAJASTHAN,India
+Mar W1,COD,APP,TIER 3,M2S,325,TAMIL NADU,India
+Mar W1,COD,APP,TIER 3,M2S,479,TELANGANA,India
+Mar W1,COD,APP,TIER 3,M2S,895,UTTAR PRADESH,India
+Mar W1,COD,M-Site,TIER 3,M2S,54,UTTAR PRADESH,India
+Mar W1,COD,M-Site,TIER 3,M2S,72,UTTARAKHAND,India
+Mar W1,COD,M-Site,EAST,M2S,58,ORISSA,India
+Mar W1,COD,M-Site,EAST,M2S,58,WEST BENGAL,India
+Mar W1,COD,M-Site,EAST,M2S,80,WEST BENGAL,India
+Mar W1,COD,M-Site,METRO,M2S,171,DELHI,India
+Mar W1,COD,PC,METRO,M2S,45,DELHI,India
+Mar W1,COD,PC,METRO,M2S,81,DELHI,India
+Mar W1,COD,PC,METRO,M2S,20,HARYANA,India
+Mar W1,COD,PC,METRO,M2S,59,KARNATAKA,India
+Mar W1,COD,PC,METRO,M2S,52,KARNATAKA,India
+Mar W1,COD,PC,METRO,M2S,74,KARNATAKA,India
+Mar W1,STD,APP,METRO,M2S,61,MAHARASHTRA,India
+Mar W1,STD,APP,METRO,M2S,141,MAHARASHTRA,India
+Mar W1,STD,APP,METRO,M2S,24,MAHARASHTRA,India
+Mar W1,STD,APP,METRO,M2S,84,MAHARASHTRA,India
+Mar W1,STD,APP,METRO,M2S,107,TAMIL NADU,India
+Mar W1,STD,APP,METRO,M2S,184,TELANGANA,India
+Mar W1,STD,M-Site,METRO,M2S,9,TELANGANA,India
+Mar W1,STD,M-Site,METRO,M2S,18,TELANGANA,India
+Mar W1,STD,M-Site,NE,M2S,2,ASSAM,India
+Mar W1,STD,M-Site,NE,M2S,16,MEGHALAYA,India
+Mar W1,STD,M-Site,NE,M2S,17,SIKKIM,India
+Mar W1,STD,M-Site,NE,M2S,33,TRIPURA,India
+Mar W1,STD,PC,TIER 1,M2S,26,ANDHRA PRADESH,India
+Mar W1,STD,PC,TIER 1,M2S,96,KARNATAKA,India
+Mar W1,STD,PC,TIER 1,M2S,5,KERALA,India
+Mar W1,STD,PC,TIER 1,M2S,39,KERALA,India
+Mar W1,STD,PC,TIER 1,M2S,22,MADHYA PRADESH,India
+Mar W1,STD,PC,TIER 1,M2S,33,MAHARASHTRA,India
+Mar W2,COD,APP,TIER 1,M2S,362,MAHARASHTRA,India
+Mar W2,COD,APP,TIER 1,M2S,431,MAHARASHTRA,India
+Mar W2,COD,APP,TIER 1,M2S,243,PUNJAB,India
+Mar W2,COD,APP,TIER 1,M2S,336,RAJASTHAN,India
+Mar W2,COD,APP,TIER 1,M2S,473,TAMIL NADU,India
+Mar W2,COD,APP,TIER 1,M2S,729,TAMIL NADU,India
+Mar W2,COD,M-Site,TIER 1,M2S,99,TELANGANA,India
+Mar W2,COD,M-Site,TIER 1,M2S,125,TELANGANA,India
+Mar W2,COD,M-Site,TIER 1,M2S,69,UTTAR PRADESH,India
+Mar W2,COD,M-Site,TIER 1,M2S,85,UTTAR PRADESH,India
+Mar W2,COD,M-Site,TIER 1,M2S,100,UTTAR PRADESH,India
+Mar W2,COD,M-Site,TIER 2,M2S,169,ANDHRA PRADESH,India
+Mar W2,COD,PC,TIER 2,M2S,81,CHHATTISGARH,India
+Mar W2,COD,PC,TIER 2,M2S,136,GOA,India
+Mar W2,COD,PC,TIER 2,M2S,23,HIMACHAL PRADESH,India
+Mar W2,COD,PC,TIER 2,M2S,74,JHARKHAND,India
+Mar W2,COD,PC,TIER 2,M2S,80,KARNATAKA,India
+Mar W2,COD,PC,TIER 2,M2S,116,KERALA,India
+Mar W2,STD,APP,TIER 2,M2S,72,KERALA,India
+Mar W2,STD,APP,TIER 2,M2S,178,MADHYA PRADESH,India
+Mar W2,STD,APP,TIER 2,M2S,48,MAHARASHTRA,India
+Mar W2,STD,APP,TIER 2,M2S,108,MAHARASHTRA,India
+Mar W2,STD,APP,TIER 2,M2S,93,MAHARASHTRA,India
+Mar W2,STD,APP,TIER 2,M2S,252,PUNJAB,India
+Mar W2,STD,M-Site,TIER 2,M2S,10,PUNJAB,India
+Mar W2,STD,M-Site,TIER 2,M2S,31,RAJASTHAN,India
+Mar W2,STD,M-Site,TIER 2,M2S,4,RAJASTHAN,India
+Mar W2,STD,M-Site,TIER 2,M2S,18,TAMIL NADU,India
+Mar W2,STD,M-Site,TIER 2,M2S,20,UTTAR PRADESH,India
+Mar W2,STD,M-Site,TIER 2,M2S,38,UTTAR PRADESH,India
+Mar W2,STD,PC,TIER 2,M2S,23,UTTARAKHAND,India
+Mar W2,STD,PC,TIER 2,M2S,215,UTTARAKHAND,India
+Mar W2,STD,PC,TIER 3,M2S,7,ANDHRA PRADESH,India
+Mar W2,STD,PC,TIER 3,M2S,48,BIHAR,India
+Mar W2,STD,PC,TIER 3,M2S,41,BIHAR,India
+Mar W2,STD,PC,TIER 3,M2S,45,CHHATTISGARH,India
+Mar W3,COD,APP,TIER 3,M2S,266,DAMAN & DIU,India
+Mar W3,COD,APP,TIER 3,M2S,322,HARYANA,India
+Mar W3,COD,APP,TIER 3,M2S,214,HARYANA,India
+Mar W3,COD,APP,TIER 3,M2S,241,HIMACHAL PRADESH,India
+Mar W3,COD,APP,TIER 3,M2S,384,HIMACHAL PRADESH,India
+Mar W3,COD,APP,TIER 3,M2S,664,KARNATAKA,India
+Mar W3,COD,M-Site,TIER 3,M2S,63,KARNATAKA,India
+Mar W3,COD,M-Site,TIER 3,M2S,81,KERALA,India
+Mar W3,COD,M-Site,TIER 3,M2S,46,KERALA,India
+Mar W3,COD,M-Site,TIER 3,M2S,55,MADHYA PRADESH,India
+Mar W3,COD,M-Site,TIER 3,M2S,92,MADHYA PRADESH,India
+Mar W3,COD,M-Site,TIER 3,M2S,146,MAHARASHTRA,India
+Mar W3,COD,PC,TIER 3,M2S,71,MAHARASHTRA,India
+Mar W3,COD,PC,TIER 3,M2S,81,PONDICHERRY,India
+Mar W3,COD,PC,TIER 3,M2S,51,PUNJAB,India
+Mar W3,COD,PC,TIER 3,M2S,59,PUNJAB,India
+Mar W3,COD,PC,TIER 3,M2S,64,RAJASTHAN,India
+Mar W3,COD,PC,TIER 3,M2S,102,TAMIL NADU,India
+Mar W3,STD,APP,TIER 3,M2S,50,TAMIL NADU,India
+Mar W3,STD,APP,TIER 3,M2S,111,UTTAR PRADESH,India
+Mar W3,STD,APP,TIER 3,M2S,20,UTTAR PRADESH,India
+Mar W3,STD,APP,TIER 3,M2S,60,UTTARAKHAND,India
+Mar W3,STD,APP,TIER 3,M2S,59,UTTARAKHAND,India
+Mar W3,STD,APP,EAST,M2S,135,ORISSA,India
+Mar W3,STD,M-Site,EAST,M2S,7,ORISSA,India
+Mar W3,STD,M-Site,EAST,M2S,25,WEST BENGAL,India
+Mar W3,STD,M-Site,EAST,M2S,2,WEST BENGAL,India
+Mar W3,STD,M-Site,EAST,M2S,10,WEST BENGAL,India
+Mar W3,STD,M-Site,METRO,M2S,11,DELHI,India
+Mar W3,STD,M-Site,METRO,M2S,15,DELHI,India
+Mar W3,STD,PC,METRO,M2S,17,DELHI,India
+Mar W3,STD,PC,METRO,M2S,73,DELHI,India
+Mar W3,STD,PC,METRO,M2S,4,GUJARAT,India
+Mar W3,STD,PC,METRO,M2S,34,GUJARAT,India
+Mar W3,STD,PC,METRO,M2S,29,GUJARAT,India
+Mar W3,STD,PC,METRO,M2S,32,GUJARAT,India
+Apr W1,COD,APP,METRO,M2S,462,HARYANA,India
+Apr W1,COD,APP,METRO,M2S,440,HARYANA,India
+Apr W1,COD,APP,METRO,M2S,388,HARYANA,India
+Apr W1,COD,APP,METRO,M2S,414,HARYANA,India
+Apr W1,COD,APP,METRO,M2S,538,KARNATAKA,India
+Apr W1,COD,APP,METRO,M2S,1012,KARNATAKA,India
+Apr W1,COD,M-Site,METRO,M2S,80,KARNATAKA,India
+Apr W1,COD,M-Site,METRO,M2S,110,KARNATAKA,India
+Apr W1,COD,M-Site,METRO,M2S,64,MAHARASHTRA,India
+Apr W1,COD,M-Site,METRO,M2S,84,MAHARASHTRA,India
+Apr W1,COD,M-Site,METRO,M2S,122,MAHARASHTRA,India
+Apr W1,COD,M-Site,METRO,M2S,202,MAHARASHTRA,India
+Apr W1,COD,PC,METRO,M2S,69,TAMIL NADU,India
+Apr W1,COD,PC,METRO,M2S,92,TAMIL NADU,India
+Apr W1,COD,PC,METRO,M2S,29,TAMIL NADU,India
+Apr W1,COD,PC,METRO,M2S,56,TAMIL NADU,India
+Apr W1,COD,PC,METRO,M2S,70,TELANGANA,India
+Apr W1,COD,PC,METRO,M2S,104,TELANGANA,India
+Apr W1,STD,APP,METRO,M2S,73,TELANGANA,India
+Apr W1,STD,APP,METRO,M2S,167,TELANGANA,India
+Apr W1,STD,APP,METRO,M2S,27,UTTAR PRADESH,India
+Apr W1,STD,APP,METRO,M2S,99,UTTAR PRADESH,India
+Apr W1,STD,APP,METRO,M2S,103,UTTAR PRADESH,India
+Apr W1,STD,APP,NE,M2S,147,ARUNACHAL PRADESH,India
+Apr W1,STD,M-Site,NE,M2S,9,ASSAM,India
+Apr W1,STD,M-Site,NE,M2S,19,ASSAM,India
+Apr W1,STD,M-Site,NE,M2S,1,MEGHALAYA,India
+Apr W1,STD,M-Site,NE,M2S,18,MIZORAM,India
+Apr W1,STD,M-Site,NE,M2S,13,MIZORAM,India
+Apr W1,STD,M-Site,NE,M2S,18,NAGALAND,India
+Apr W1,STD,PC,NE,M2S,13,SIKKIM,India
+Apr W1,STD,PC,NE,M2S,61,SIKKIM,India
+Apr W1,STD,PC,NE,M2S,7,TRIPURA,India
+Apr W1,STD,PC,TIER 1,M2S,31,ANDHRA PRADESH,India
+Apr W1,STD,PC,TIER 1,M2S,21,ANDHRA PRADESH,India
+Apr W1,STD,PC,TIER 1,M2S,26,CHANDIGARH,India
+Apr W2,COD,APP,TIER 1,M2S,469,CHANDIGARH,India
+Apr W2,COD,APP,TIER 1,M2S,450,GUJARAT,India
+Apr W2,COD,APP,TIER 1,M2S,354,GUJARAT,India
+Apr W2,COD,APP,TIER 1,M2S,442,HARYANA,India
+Apr W2,COD,APP,TIER 1,M2S,603,HARYANA,India
+Apr W2,COD,APP,TIER 1,M2S,1013,KARNATAKA,India
+Apr W2,COD,M-Site,TIER 1,M2S,72,KARNATAKA,India
+Apr W2,COD,M-Site,TIER 1,M2S,105,MADHYA PRADESH,India
+Apr W2,COD,M-Site,TIER 1,M2S,51,MADHYA PRADESH,India
+Apr W2,COD,M-Site,TIER 1,M2S,89,MAHARASHTRA,India
+Apr W2,COD,M-Site,TIER 1,M2S,108,MAHARASHTRA,India
+Apr W2,COD,M-Site,TIER 1,M2S,178,MAHARASHTRA,India
+Apr W2,COD,PC,TIER 1,M2S,72,MAHARASHTRA,India
+Apr W2,COD,PC,TIER 1,M2S,89,PONDICHERRY,India
+Apr W2,COD,PC,TIER 1,M2S,21,PONDICHERRY,India
+Apr W2,COD,PC,TIER 1,M2S,85,PUNJAB,India
+Apr W2,COD,PC,TIER 1,M2S,69,PUNJAB,India
+Apr W2,COD,PC,TIER 1,M2S,106,RAJASTHAN,India
+Apr W2,STD,APP,TIER 1,M2S,66,RAJASTHAN,India
+Apr W2,STD,APP,TIER 1,M2S,168,RAJASTHAN,India
+Apr W2,STD,APP,TIER 1,M2S,20,TAMIL NADU,India
+Apr W2,STD,APP,TIER 1,M2S,94,TAMIL NADU,India
+Apr W2,STD,APP,TIER 1,M2S,88,TELANGANA,India
+Apr W2,STD,APP,TIER 1,M2S,124,TELANGANA,India
+Apr W2,STD,M-Site,TIER 1,M2S,6,UTTAR PRADESH,India
+Apr W2,STD,M-Site,TIER 1,M2S,19,UTTAR PRADESH,India
+Apr W2,STD,M-Site,TIER 1,M2S,1,UTTAR PRADESH,India
+Apr W2,STD,M-Site,TIER 1,M2S,20,UTTARAKHAND,India
+Apr W2,STD,M-Site,TIER 1,M2S,10,UTTARAKHAND,India
+Apr W2,STD,M-Site,TIER 2,M2S,19,ANDHRA PRADESH,India
+Apr W2,STD,PC,TIER 2,M2S,18,ANDHRA PRADESH,India
+Apr W2,STD,PC,TIER 2,M2S,79,BIHAR,India
+Apr W2,STD,PC,TIER 2,M2S,3,BIHAR,India
+Apr W2,STD,PC,TIER 2,M2S,36,CHANDIGARH,India
+Apr W2,STD,PC,TIER 2,M2S,30,CHHATTISGARH,India
+Apr W2,STD,PC,TIER 2,M2S,28,CHHATTISGARH,India
+Mar W4,COD,APP,TIER 2,M2S,594,DADRA & NAGAR HAVELI,India
+Mar W4,COD,APP,TIER 2,M2S,530,DADRA & NAGAR HAVELI,India
+Mar W4,COD,APP,TIER 2,M2S,484,DAMAN & DIU,India
+Mar W4,COD,APP,TIER 2,M2S,455,DAMAN & DIU,India
+Mar W4,COD,APP,TIER 2,M2S,670,GOA,India
+Mar W4,COD,APP,TIER 2,M2S,1434,GOA,India
+Mar W4,COD,M-Site,TIER 2,M2S,116,GUJARAT,India
+Mar W4,COD,M-Site,TIER 2,M2S,99,GUJARAT,India
+Mar W4,COD,M-Site,TIER 2,M2S,73,GUJARAT,India
+Mar W4,COD,M-Site,TIER 2,M2S,113,HARYANA,India
+Mar W4,COD,M-Site,TIER 2,M2S,133,HARYANA,India
+Mar W4,COD,M-Site,TIER 2,M2S,241,HIMACHAL PRADESH,India
+Mar W4,COD,PC,TIER 2,M2S,104,HIMACHAL PRADESH,India
+Mar W4,COD,PC,TIER 2,M2S,133,JHARKHAND,India
+Mar W4,COD,PC,TIER 2,M2S,36,JHARKHAND,India
+Mar W4,COD,PC,TIER 2,M2S,90,KARNATAKA,India
+Mar W4,COD,PC,TIER 2,M2S,109,KARNATAKA,India
+Mar W4,COD,PC,TIER 2,M2S,149,MADHYA PRADESH,India
+Mar W4,STD,APP,TIER 2,M2S,68,MADHYA PRADESH,India
+Mar W4,STD,APP,TIER 2,M2S,134,MAHARASHTRA,India
+Mar W4,STD,APP,TIER 2,M2S,35,MAHARASHTRA,India
+Mar W4,STD,APP,TIER 2,M2S,106,MAHARASHTRA,India
+Mar W4,STD,APP,TIER 2,M2S,105,PUNJAB,India
+Mar W4,STD,APP,TIER 2,M2S,178,PUNJAB,India
+Mar W4,STD,M-Site,TIER 2,M2S,8,RAJASTHAN,India
+Mar W4,STD,M-Site,TIER 2,M2S,30,RAJASTHAN,India
+Mar W4,STD,M-Site,TIER 2,M2S,6,TAMIL NADU,India
+Mar W4,STD,M-Site,TIER 2,M2S,16,TAMIL NADU,India
+Mar W4,STD,M-Site,TIER 2,M2S,18,TAMIL NADU,India
+Mar W4,STD,M-Site,TIER 2,M2S,32,TELANGANA,India
+Mar W4,STD,PC,TIER 2,M2S,30,UTTAR PRADESH,India
+Mar W4,STD,PC,TIER 2,M2S,65,UTTAR PRADESH,India
+Mar W4,STD,PC,TIER 2,M2S,8,UTTAR PRADESH,India
+Mar W4,STD,PC,TIER 2,M2S,54,UTTARAKHAND,India
+Mar W4,STD,PC,TIER 2,M2S,24,UTTARAKHAND,India
+Mar W4,STD,PC,TIER 3,M2S,50,ANDHRA PRADESH,India
+Feb W1,COD,APP,TIER 3,Post-Ship,2243,ANDHRA PRADESH,India
+Feb W1,COD,APP,TIER 3,Post-Ship,1967,BIHAR,India
+Feb W1,COD,APP,TIER 3,Post-Ship,1819,BIHAR,India
+Feb W1,COD,APP,TIER 3,Post-Ship,1974,BIHAR,India
+Feb W1,COD,APP,TIER 3,Post-Ship,3060,CHANDIGARH,India
+Feb W1,COD,APP,TIER 3,Post-Ship,5581,CHHATTISGARH,India
+Feb W1,COD,M-Site,TIER 3,Post-Ship,403,CHHATTISGARH,India
+Feb W1,COD,M-Site,TIER 3,Post-Ship,404,GOA,India
+Feb W1,COD,M-Site,TIER 3,Post-Ship,322,GOA,India
+Feb W1,COD,M-Site,TIER 3,Post-Ship,394,GUJARAT,India
+Feb W1,COD,M-Site,TIER 3,Post-Ship,577,GUJARAT,India
+Feb W1,COD,M-Site,TIER 3,Post-Ship,1012,HARYANA,India
+Feb W1,COD,PC,TIER 3,Post-Ship,342,HARYANA,India
+Feb W1,COD,PC,TIER 3,Post-Ship,431,HARYANA,India
+Feb W1,COD,PC,TIER 3,Post-Ship,157,HIMACHAL PRADESH,India
+Feb W1,COD,PC,TIER 3,Post-Ship,379,HIMACHAL PRADESH,India
+Feb W1,COD,PC,TIER 3,Post-Ship,380,JAMMU & KASHMIR,India
+Feb W1,COD,PC,TIER 3,Post-Ship,677,JAMMU & KASHMIR,India
+Feb W1,STD,APP,TIER 3,Post-Ship,239,JHARKHAND,India
+Feb W1,STD,APP,TIER 3,Post-Ship,528,JHARKHAND,India
+Feb W1,STD,APP,TIER 3,Post-Ship,133,KARNATAKA,India
+Feb W1,STD,APP,TIER 3,Post-Ship,412,KARNATAKA,India
+Feb W1,STD,APP,TIER 3,Post-Ship,436,MADHYA PRADESH,India
+Feb W1,STD,APP,TIER 3,Post-Ship,784,MADHYA PRADESH,India
+Feb W1,STD,M-Site,TIER 3,Post-Ship,35,MAHARASHTRA,India
+Feb W1,STD,M-Site,TIER 3,Post-Ship,104,MAHARASHTRA,India
+Feb W1,STD,M-Site,TIER 3,Post-Ship,25,MAHARASHTRA,India
+Feb W1,STD,M-Site,TIER 3,Post-Ship,45,PONDICHERRY,India
+Feb W1,STD,M-Site,TIER 3,Post-Ship,70,PONDICHERRY,India
+Feb W1,STD,M-Site,TIER 3,Post-Ship,119,PUNJAB,India
+Feb W1,STD,PC,TIER 3,Post-Ship,66,PUNJAB,India
+Feb W1,STD,PC,TIER 3,Post-Ship,319,RAJASTHAN,India
+Feb W1,STD,PC,TIER 3,Post-Ship,27,RAJASTHAN,India
+Feb W1,STD,PC,TIER 3,Post-Ship,144,TAMIL NADU,India
+Feb W1,STD,PC,TIER 3,Post-Ship,136,TAMIL NADU,India
+Feb W1,STD,PC,TIER 3,Post-Ship,167,TELANGANA,India
+Feb W2,COD,APP,TIER 3,Post-Ship,2125,TELANGANA,India
+Feb W2,COD,APP,TIER 3,Post-Ship,1736,UTTAR PRADESH,India
+Feb W2,COD,APP,TIER 3,Post-Ship,1574,UTTAR PRADESH,India
+Feb W2,COD,APP,TIER 3,Post-Ship,1526,UTTARAKHAND,India
+Feb W2,COD,APP,TIER 3,Post-Ship,2367,UTTARAKHAND,India
+Feb W2,COD,APP,EAST,Post-Ship,5404,ORISSA,India
+Feb W2,COD,M-Site,EAST,Post-Ship,364,ORISSA,India
+Feb W2,COD,M-Site,EAST,Post-Ship,377,WEST BENGAL,India
+Feb W2,COD,M-Site,EAST,Post-Ship,272,WEST BENGAL,India
+Feb W2,COD,M-Site,EAST,Post-Ship,286,WEST BENGAL,India
+Feb W2,COD,M-Site,METRO,Post-Ship,427,DELHI,India
+Feb W2,COD,M-Site,METRO,Post-Ship,930,DELHI,India
+Feb W2,COD,PC,METRO,Post-Ship,297,DELHI,India
+Feb W2,COD,PC,METRO,Post-Ship,406,GUJARAT,India
+Feb W2,COD,PC,METRO,Post-Ship,118,GUJARAT,India
+Feb W2,COD,PC,METRO,Post-Ship,320,HARYANA,India
+Feb W2,COD,PC,METRO,Post-Ship,335,HARYANA,India
+Feb W2,COD,PC,METRO,Post-Ship,492,HARYANA,India
+Feb W2,STD,APP,METRO,Post-Ship,255,HARYANA,India
+Feb W2,STD,APP,METRO,Post-Ship,513,KARNATAKA,India
+Feb W2,STD,APP,METRO,Post-Ship,123,KARNATAKA,India
+Feb W2,STD,APP,METRO,Post-Ship,393,KARNATAKA,India
+Feb W2,STD,APP,METRO,Post-Ship,394,KARNATAKA,India
+Feb W2,STD,APP,METRO,Post-Ship,798,MAHARASHTRA,India
+Feb W2,STD,M-Site,METRO,Post-Ship,41,MAHARASHTRA,India
+Feb W2,STD,M-Site,METRO,Post-Ship,94,MAHARASHTRA,India
+Feb W2,STD,M-Site,METRO,Post-Ship,24,TAMIL NADU,India
+Feb W2,STD,M-Site,METRO,Post-Ship,58,TAMIL NADU,India
+Feb W2,STD,M-Site,METRO,Post-Ship,59,TAMIL NADU,India
+Feb W2,STD,M-Site,METRO,Post-Ship,114,TAMIL NADU,India
+Feb W2,STD,PC,METRO,Post-Ship,83,TELANGANA,India
+Feb W2,STD,PC,METRO,Post-Ship,255,TELANGANA,India
+Feb W2,STD,PC,METRO,Post-Ship,29,TELANGANA,India
+Feb W2,STD,PC,NE,Post-Ship,154,ASSAM,India
+Feb W2,STD,PC,NE,Post-Ship,113,ASSAM,India
+Feb W2,STD,PC,NE,Post-Ship,169,MIZORAM,India
+Feb W3,COD,APP,NE,Post-Ship,1774,MIZORAM,India
+Feb W3,COD,APP,NE,Post-Ship,1491,SIKKIM,India
+Feb W3,COD,APP,NE,Post-Ship,1396,TRIPURA,India
+Feb W3,COD,APP,TIER 1,Post-Ship,1415,ANDHRA PRADESH,India
+Feb W3,COD,APP,TIER 1,Post-Ship,2134,ANDHRA PRADESH,India
+Feb W3,COD,APP,TIER 1,Post-Ship,5058,CHANDIGARH,India
+Feb W3,COD,M-Site,TIER 1,Post-Ship,358,CHANDIGARH,India
+Feb W3,COD,M-Site,TIER 1,Post-Ship,296,GUJARAT,India
+Feb W3,COD,M-Site,TIER 1,Post-Ship,236,GUJARAT,India
+Feb W3,COD,M-Site,TIER 1,Post-Ship,274,HARYANA,India
+Feb W3,COD,M-Site,TIER 1,Post-Ship,441,HARYANA,India
+Feb W3,COD,M-Site,TIER 1,Post-Ship,845,HARYANA,India
+Feb W3,COD,PC,TIER 1,Post-Ship,291,KARNATAKA,India
+Feb W3,COD,PC,TIER 1,Post-Ship,389,KARNATAKA,India
+Feb W3,COD,PC,TIER 1,Post-Ship,117,MADHYA PRADESH,India
+Feb W3,COD,PC,TIER 1,Post-Ship,239,MADHYA PRADESH,India
+Feb W3,COD,PC,TIER 1,Post-Ship,271,MAHARASHTRA,India
+Feb W3,COD,PC,TIER 1,Post-Ship,485,MAHARASHTRA,India
+Feb W3,STD,APP,TIER 1,Post-Ship,227,MAHARASHTRA,India
+Feb W3,STD,APP,TIER 1,Post-Ship,463,MAHARASHTRA,India
+Feb W3,STD,APP,TIER 1,Post-Ship,114,PONDICHERRY,India
+Feb W3,STD,APP,TIER 1,Post-Ship,293,PUNJAB,India
+Feb W3,STD,APP,TIER 1,Post-Ship,359,PUNJAB,India
+Feb W3,STD,APP,TIER 1,Post-Ship,776,RAJASTHAN,India
+Feb W3,STD,M-Site,TIER 1,Post-Ship,34,RAJASTHAN,India
+Feb W3,STD,M-Site,TIER 1,Post-Ship,75,RAJASTHAN,India
+Feb W3,STD,M-Site,TIER 1,Post-Ship,11,TAMIL NADU,India
+Feb W3,STD,M-Site,TIER 1,Post-Ship,59,TAMIL NADU,India
+Feb W3,STD,M-Site,TIER 1,Post-Ship,54,TELANGANA,India
+Feb W3,STD,M-Site,TIER 1,Post-Ship,87,TELANGANA,India
+Feb W3,STD,PC,TIER 1,Post-Ship,62,UTTAR PRADESH,India
+Feb W3,STD,PC,TIER 1,Post-Ship,206,UTTAR PRADESH,India
+Feb W3,STD,PC,TIER 1,Post-Ship,13,UTTAR PRADESH,India
+Feb W3,STD,PC,TIER 1,Post-Ship,115,UTTARAKHAND,India
+Feb W3,STD,PC,TIER 1,Post-Ship,100,UTTARAKHAND,India
+Feb W3,STD,PC,TIER 2,Post-Ship,175,ANDHRA PRADESH,India
+Feb W4,COD,APP,TIER 2,Post-Ship,2144,ANDHRA PRADESH,India
+Feb W4,COD,APP,TIER 2,Post-Ship,1584,BIHAR,India
+Feb W4,COD,APP,TIER 2,Post-Ship,1611,BIHAR,India
+Feb W4,COD,APP,TIER 2,Post-Ship,1439,CHANDIGARH,India
+Feb W4,COD,APP,TIER 2,Post-Ship,2514,CHHATTISGARH,India
+Feb W4,COD,APP,TIER 2,Post-Ship,5668,CHHATTISGARH,India
+Feb W4,COD,M-Site,TIER 2,Post-Ship,335,DADRA & NAGAR HAVELI,India
+Feb W4,COD,M-Site,TIER 2,Post-Ship,306,DADRA & NAGAR HAVELI,India
+Feb W4,COD,M-Site,TIER 2,Post-Ship,262,DAMAN & DIU,India
+Feb W4,COD,M-Site,TIER 2,Post-Ship,285,GOA,India
+Feb W4,COD,M-Site,TIER 2,Post-Ship,407,GOA,India
+Feb W4,COD,M-Site,TIER 2,Post-Ship,975,GUJARAT,India
+Feb W4,COD,PC,TIER 2,Post-Ship,260,GUJARAT,India
+Feb W4,COD,PC,TIER 2,Post-Ship,331,HARYANA,India
+Feb W4,COD,PC,TIER 2,Post-Ship,119,HARYANA,India
+Feb W4,COD,PC,TIER 2,Post-Ship,255,HIMACHAL PRADESH,India
+Feb W4,COD,PC,TIER 2,Post-Ship,276,HIMACHAL PRADESH,India
+Feb W4,COD,PC,TIER 2,Post-Ship,507,JHARKHAND,India
+Feb W4,STD,APP,TIER 2,Post-Ship,211,JHARKHAND,India
+Feb W4,STD,APP,TIER 2,Post-Ship,409,KARNATAKA,India
+Feb W4,STD,APP,TIER 2,Post-Ship,121,KARNATAKA,India
+Feb W4,STD,APP,TIER 2,Post-Ship,234,MADHYA PRADESH,India
+Feb W4,STD,APP,TIER 2,Post-Ship,303,MADHYA PRADESH,India
+Feb W4,STD,APP,TIER 2,Post-Ship,542,MAHARASHTRA,India
+Feb W4,STD,M-Site,TIER 2,Post-Ship,34,MAHARASHTRA,India
+Feb W4,STD,M-Site,TIER 2,Post-Ship,69,MAHARASHTRA,India
+Feb W4,STD,M-Site,TIER 2,Post-Ship,5,PUNJAB,India
+Feb W4,STD,M-Site,TIER 2,Post-Ship,42,PUNJAB,India
+Feb W4,STD,M-Site,TIER 2,Post-Ship,51,RAJASTHAN,India
+Feb W4,STD,M-Site,TIER 2,Post-Ship,74,RAJASTHAN,India
+Feb W4,STD,PC,TIER 2,Post-Ship,46,TAMIL NADU,India
+Feb W4,STD,PC,TIER 2,Post-Ship,170,TAMIL NADU,India
+Feb W4,STD,PC,TIER 2,Post-Ship,15,UTTAR PRADESH,India
+Feb W4,STD,PC,TIER 2,Post-Ship,116,UTTAR PRADESH,India
+Feb W4,STD,PC,TIER 2,Post-Ship,62,UTTARAKHAND,India
+Feb W4,STD,PC,TIER 2,Post-Ship,114,UTTARAKHAND,India
+Jan W1,COD,APP,TIER 3,Post-Ship,4143,ANDHRA PRADESH,India
+Jan W1,COD,APP,TIER 3,Post-Ship,4214,ANDHRA PRADESH,India
+Jan W1,COD,APP,TIER 3,Post-Ship,2672,ANDHRA PRADESH,India
+Jan W1,COD,APP,TIER 3,Post-Ship,3956,BIHAR,India
+Jan W1,COD,APP,TIER 3,Post-Ship,6077,BIHAR,India
+Jan W1,COD,APP,TIER 3,Post-Ship,11754,CHHATTISGARH,India
+Jan W1,COD,M-Site,TIER 3,Post-Ship,795,CHHATTISGARH,India
+Jan W1,COD,M-Site,TIER 3,Post-Ship,972,GOA,India
+Jan W1,COD,M-Site,TIER 3,Post-Ship,465,GUJARAT,India
+Jan W1,COD,M-Site,TIER 3,Post-Ship,971,GUJARAT,India
+Jan W1,COD,M-Site,TIER 3,Post-Ship,1247,HARYANA,India
+Jan W1,COD,M-Site,TIER 3,Post-Ship,2214,HARYANA,India
+Jan W1,COD,PC,TIER 3,Post-Ship,647,HIMACHAL PRADESH,India
+Jan W1,COD,PC,TIER 3,Post-Ship,955,HIMACHAL PRADESH,India
+Jan W1,COD,PC,TIER 3,Post-Ship,224,JAMMU & KASHMIR,India
+Jan W1,COD,PC,TIER 3,Post-Ship,725,JAMMU & KASHMIR,India
+Jan W1,COD,PC,TIER 3,Post-Ship,804,JHARKHAND,India
+Jan W1,COD,PC,TIER 3,Post-Ship,1091,JHARKHAND,India
+Jan W1,STD,APP,TIER 3,Post-Ship,510,KARNATAKA,India
+Jan W1,STD,APP,TIER 3,Post-Ship,1552,KARNATAKA,India
+Jan W1,STD,APP,TIER 3,Post-Ship,198,MADHYA PRADESH,India
+Jan W1,STD,APP,TIER 3,Post-Ship,1057,MADHYA PRADESH,India
+Jan W1,STD,APP,TIER 3,Post-Ship,1037,MAHARASHTRA,India
+Jan W1,STD,APP,TIER 3,Post-Ship,1676,MAHARASHTRA,India
+Jan W1,STD,M-Site,TIER 3,Post-Ship,95,MAHARASHTRA,India
+Jan W1,STD,M-Site,TIER 3,Post-Ship,263,PONDICHERRY,India
+Jan W1,STD,M-Site,TIER 3,Post-Ship,35,PONDICHERRY,India
+Jan W1,STD,M-Site,TIER 3,Post-Ship,214,PUNJAB,India
+Jan W1,STD,M-Site,TIER 3,Post-Ship,205,PUNJAB,India
+Jan W1,STD,M-Site,TIER 3,Post-Ship,308,RAJASTHAN,India
+Jan W1,STD,PC,TIER 3,Post-Ship,215,RAJASTHAN,India
+Jan W1,STD,PC,TIER 3,Post-Ship,921,TAMIL NADU,India
+Jan W1,STD,PC,TIER 3,Post-Ship,45,TAMIL NADU,India
+Jan W1,STD,PC,TIER 3,Post-Ship,533,TELANGANA,India
+Jan W1,STD,PC,TIER 3,Post-Ship,374,TELANGANA,India
+Jan W1,STD,PC,TIER 3,Post-Ship,481,UTTAR PRADESH,India
+Jan W2,COD,APP,TIER 3,Post-Ship,4443,UTTAR PRADESH,India
+Jan W2,COD,APP,TIER 3,Post-Ship,4478,UTTARAKHAND,India
+Jan W2,COD,APP,TIER 3,Post-Ship,2618,UTTARAKHAND,India
+Jan W2,COD,APP,EAST,Post-Ship,4418,ORISSA,India
+Jan W2,COD,APP,EAST,Post-Ship,6373,ORISSA,India
+Jan W2,COD,APP,EAST,Post-Ship,10522,WEST BENGAL,India
+Jan W2,COD,M-Site,EAST,Post-Ship,1049,WEST BENGAL,India
+Jan W2,COD,M-Site,EAST,Post-Ship,1206,WEST BENGAL,India
+Jan W2,COD,M-Site,METRO,Post-Ship,544,DELHI,India
+Jan W2,COD,M-Site,METRO,Post-Ship,1176,DELHI,India
+Jan W2,COD,M-Site,METRO,Post-Ship,1525,DELHI,India
+Jan W2,COD,M-Site,METRO,Post-Ship,2255,GUJARAT,India
+Jan W2,COD,PC,METRO,Post-Ship,857,HARYANA,India
+Jan W2,COD,PC,METRO,Post-Ship,1106,HARYANA,India
+Jan W2,COD,PC,METRO,Post-Ship,222,HARYANA,India
+Jan W2,COD,PC,METRO,Post-Ship,843,HARYANA,India
+Jan W2,COD,PC,METRO,Post-Ship,865,KARNATAKA,India
+Jan W2,COD,PC,METRO,Post-Ship,1233,KARNATAKA,India
+Jan W2,STD,APP,METRO,Post-Ship,610,KARNATAKA,India
+Jan W2,STD,APP,METRO,Post-Ship,1776,KARNATAKA,India
+Jan W2,STD,APP,METRO,Post-Ship,190,MAHARASHTRA,India
+Jan W2,STD,APP,METRO,Post-Ship,1298,MAHARASHTRA,India
+Jan W2,STD,APP,METRO,Post-Ship,1230,MAHARASHTRA,India
+Jan W2,STD,APP,METRO,Post-Ship,1790,MAHARASHTRA,India
+Jan W2,STD,M-Site,METRO,Post-Ship,88,TAMIL NADU,India
+Jan W2,STD,M-Site,METRO,Post-Ship,306,TAMIL NADU,India
+Jan W2,STD,M-Site,METRO,Post-Ship,47,TAMIL NADU,India
+Jan W2,STD,M-Site,METRO,Post-Ship,259,TAMIL NADU,India
+Jan W2,STD,M-Site,METRO,Post-Ship,223,TELANGANA,India
+Jan W2,STD,M-Site,METRO,Post-Ship,376,TELANGANA,India
+Jan W2,STD,PC,METRO,Post-Ship,285,TELANGANA,India
+Jan W2,STD,PC,METRO,Post-Ship,1074,TELANGANA,India
+Jan W2,STD,PC,METRO,Post-Ship,43,UTTAR PRADESH,India
+Jan W2,STD,PC,METRO,Post-Ship,605,UTTAR PRADESH,India
+Jan W2,STD,PC,NE,Post-Ship,484,ASSAM,India
+Jan W2,STD,PC,NE,Post-Ship,569,ASSAM,India
+Jan W3,COD,APP,NE,Post-Ship,3927,MIZORAM,India
+Jan W3,COD,APP,NE,Post-Ship,3786,MIZORAM,India
+Jan W3,COD,APP,NE,Post-Ship,2635,SIKKIM,India
+Jan W3,COD,APP,NE,Post-Ship,3742,TRIPURA,India
+Jan W3,COD,APP,TIER 1,Post-Ship,5243,ANDHRA PRADESH,India
+Jan W3,COD,APP,TIER 1,Post-Ship,9347,CHANDIGARH,India
+Jan W3,COD,M-Site,TIER 1,Post-Ship,901,CHANDIGARH,India
+Jan W3,COD,M-Site,TIER 1,Post-Ship,965,GUJARAT,India
+Jan W3,COD,M-Site,TIER 1,Post-Ship,539,GUJARAT,India
+Jan W3,COD,M-Site,TIER 1,Post-Ship,916,HARYANA,India
+Jan W3,COD,M-Site,TIER 1,Post-Ship,1298,HARYANA,India
+Jan W3,COD,M-Site,TIER 1,Post-Ship,2114,HARYANA,India
+Jan W3,COD,PC,TIER 1,Post-Ship,779,KARNATAKA,India
+Jan W3,COD,PC,TIER 1,Post-Ship,932,KARNATAKA,India
+Jan W3,COD,PC,TIER 1,Post-Ship,215,MADHYA PRADESH,India
+Jan W3,COD,PC,TIER 1,Post-Ship,732,MADHYA PRADESH,India
+Jan W3,COD,PC,TIER 1,Post-Ship,815,MAHARASHTRA,India
+Jan W3,COD,PC,TIER 1,Post-Ship,1055,MAHARASHTRA,India
+Jan W3,STD,APP,TIER 1,Post-Ship,470,MAHARASHTRA,India
+Jan W3,STD,APP,TIER 1,Post-Ship,1377,MAHARASHTRA,India
+Jan W3,STD,APP,TIER 1,Post-Ship,178,PONDICHERRY,India
+Jan W3,STD,APP,TIER 1,Post-Ship,939,PONDICHERRY,India
+Jan W3,STD,APP,TIER 1,Post-Ship,855,PUNJAB,India
+Jan W3,STD,APP,TIER 1,Post-Ship,1404,PUNJAB,India
+Jan W3,STD,M-Site,TIER 1,Post-Ship,69,RAJASTHAN,India
+Jan W3,STD,M-Site,TIER 1,Post-Ship,230,RAJASTHAN,India
+Jan W3,STD,M-Site,TIER 1,Post-Ship,32,RAJASTHAN,India
+Jan W3,STD,M-Site,TIER 1,Post-Ship,179,TAMIL NADU,India
+Jan W3,STD,M-Site,TIER 1,Post-Ship,190,TAMIL NADU,India
+Jan W3,STD,M-Site,TIER 1,Post-Ship,267,TELANGANA,India
+Jan W3,STD,PC,TIER 1,Post-Ship,237,TELANGANA,India
+Jan W3,STD,PC,TIER 1,Post-Ship,807,UTTAR PRADESH,India
+Jan W3,STD,PC,TIER 1,Post-Ship,60,UTTAR PRADESH,India
+Jan W3,STD,PC,TIER 1,Post-Ship,501,UTTAR PRADESH,India
+Jan W3,STD,PC,TIER 1,Post-Ship,311,UTTARAKHAND,India
+Jan W3,STD,PC,TIER 1,Post-Ship,397,UTTARAKHAND,India
+Jan W4,COD,APP,TIER 2,Post-Ship,4364,ANDHRA PRADESH,India
+Jan W4,COD,APP,TIER 2,Post-Ship,4012,ANDHRA PRADESH,India
+Jan W4,COD,APP,TIER 2,Post-Ship,3118,BIHAR,India
+Jan W4,COD,APP,TIER 2,Post-Ship,3890,BIHAR,India
+Jan W4,COD,APP,TIER 2,Post-Ship,5566,CHANDIGARH,India
+Jan W4,COD,APP,TIER 2,Post-Ship,10336,CHHATTISGARH,India
+Jan W4,COD,M-Site,TIER 2,Post-Ship,818,CHHATTISGARH,India
+Jan W4,COD,M-Site,TIER 2,Post-Ship,838,DADRA & NAGAR HAVELI,India
+Jan W4,COD,M-Site,TIER 2,Post-Ship,595,DAMAN & DIU,India
+Jan W4,COD,M-Site,TIER 2,Post-Ship,858,GOA,India
+Jan W4,COD,M-Site,TIER 2,Post-Ship,1208,GOA,India
+Jan W4,COD,M-Site,TIER 2,Post-Ship,1914,GUJARAT,India
+Jan W4,COD,PC,TIER 2,Post-Ship,747,GUJARAT,India
+Jan W4,COD,PC,TIER 2,Post-Ship,876,HARYANA,India
+Jan W4,COD,PC,TIER 2,Post-Ship,240,HARYANA,India
+Jan W4,COD,PC,TIER 2,Post-Ship,727,HIMACHAL PRADESH,India
+Jan W4,COD,PC,TIER 2,Post-Ship,785,HIMACHAL PRADESH,India
+Jan W4,COD,PC,TIER 2,Post-Ship,1160,JHARKHAND,India
+Jan W4,STD,APP,TIER 2,Post-Ship,406,JHARKHAND,India
+Jan W4,STD,APP,TIER 2,Post-Ship,1298,KARNATAKA,India
+Jan W4,STD,APP,TIER 2,Post-Ship,174,KARNATAKA,India
+Jan W4,STD,APP,TIER 2,Post-Ship,878,MADHYA PRADESH,India
+Jan W4,STD,APP,TIER 2,Post-Ship,827,MADHYA PRADESH,India
+Jan W4,STD,APP,TIER 2,Post-Ship,1351,MADHYA PRADESH,India
+Jan W4,STD,M-Site,TIER 2,Post-Ship,89,MAHARASHTRA,India
+Jan W4,STD,M-Site,TIER 2,Post-Ship,221,MAHARASHTRA,India
+Jan W4,STD,M-Site,TIER 2,Post-Ship,50,MAHARASHTRA,India
+Jan W4,STD,M-Site,TIER 2,Post-Ship,171,PUNJAB,India
+Jan W4,STD,M-Site,TIER 2,Post-Ship,168,PUNJAB,India
+Jan W4,STD,M-Site,TIER 2,Post-Ship,261,RAJASTHAN,India
+Jan W4,STD,PC,TIER 2,Post-Ship,184,RAJASTHAN,India
+Jan W4,STD,PC,TIER 2,Post-Ship,719,TAMIL NADU,India
+Jan W4,STD,PC,TIER 2,Post-Ship,48,TAMIL NADU,India
+Jan W4,STD,PC,TIER 2,Post-Ship,406,TELANGANA,India
+Jan W4,STD,PC,TIER 2,Post-Ship,292,UTTAR PRADESH,India
+Jan W4,STD,PC,TIER 2,Post-Ship,377,UTTAR PRADESH,India
+Mar W1,COD,APP,TIER 2,Post-Ship,1328,UTTARAKHAND,India
+Mar W1,COD,APP,TIER 2,Post-Ship,1145,UTTARAKHAND,India
+Mar W1,COD,APP,TIER 3,Post-Ship,1193,ANDHRA PRADESH,India
+Mar W1,COD,APP,TIER 3,Post-Ship,885,ANDHRA PRADESH,India
+Mar W1,COD,APP,TIER 3,Post-Ship,1510,BIHAR,India
+Mar W1,COD,APP,TIER 3,Post-Ship,3393,BIHAR,India
+Mar W1,COD,M-Site,TIER 3,Post-Ship,273,CHHATTISGARH,India
+Mar W1,COD,M-Site,TIER 3,Post-Ship,239,CHHATTISGARH,India
+Mar W1,COD,M-Site,TIER 3,Post-Ship,211,GOA,India
+Mar W1,COD,M-Site,TIER 3,Post-Ship,195,GUJARAT,India
+Mar W1,COD,M-Site,TIER 3,Post-Ship,297,GUJARAT,India
+Mar W1,COD,M-Site,TIER 3,Post-Ship,663,HARYANA,India
+Mar W1,COD,PC,TIER 3,Post-Ship,182,HARYANA,India
+Mar W1,COD,PC,TIER 3,Post-Ship,256,HIMACHAL PRADESH,India
+Mar W1,COD,PC,TIER 3,Post-Ship,102,HIMACHAL PRADESH,India
+Mar W1,COD,PC,TIER 3,Post-Ship,183,JAMMU & KASHMIR,India
+Mar W1,COD,PC,TIER 3,Post-Ship,170,JAMMU & KASHMIR,India
+Mar W1,COD,PC,TIER 3,Post-Ship,339,JHARKHAND,India
+Mar W1,STD,APP,TIER 3,Post-Ship,160,JHARKHAND,India
+Mar W1,STD,APP,TIER 3,Post-Ship,331,KARNATAKA,India
+Mar W1,STD,APP,TIER 3,Post-Ship,100,KARNATAKA,India
+Mar W1,STD,APP,TIER 3,Post-Ship,214,MADHYA PRADESH,India
+Mar W1,STD,APP,TIER 3,Post-Ship,254,MADHYA PRADESH,India
+Mar W1,STD,APP,TIER 3,Post-Ship,465,MAHARASHTRA,India
+Mar W1,STD,M-Site,TIER 3,Post-Ship,20,MAHARASHTRA,India
+Mar W1,STD,M-Site,TIER 3,Post-Ship,61,MAHARASHTRA,India
+Mar W1,STD,M-Site,TIER 3,Post-Ship,19,PONDICHERRY,India
+Mar W1,STD,M-Site,TIER 3,Post-Ship,30,PUNJAB,India
+Mar W1,STD,M-Site,TIER 3,Post-Ship,33,PUNJAB,India
+Mar W1,STD,M-Site,TIER 3,Post-Ship,67,RAJASTHAN,India
+Mar W1,STD,PC,TIER 3,Post-Ship,48,RAJASTHAN,India
+Mar W1,STD,PC,TIER 3,Post-Ship,159,TAMIL NADU,India
+Mar W1,STD,PC,TIER 3,Post-Ship,14,TAMIL NADU,India
+Mar W1,STD,PC,TIER 3,Post-Ship,82,TELANGANA,India
+Mar W1,STD,PC,TIER 3,Post-Ship,50,TELANGANA,India
+Mar W1,STD,PC,TIER 3,Post-Ship,119,UTTAR PRADESH,India
+Mar W2,COD,APP,TIER 3,Post-Ship,991,UTTAR PRADESH,India
+Mar W2,COD,APP,TIER 3,Post-Ship,762,UTTARAKHAND,India
+Mar W2,COD,APP,TIER 3,Post-Ship,876,UTTARAKHAND,India
+Mar W2,COD,APP,EAST,Post-Ship,685,ORISSA,India
+Mar W2,COD,APP,EAST,Post-Ship,1057,ORISSA,India
+Mar W2,COD,APP,EAST,Post-Ship,2388,WEST BENGAL,India
+Mar W2,COD,M-Site,EAST,Post-Ship,177,WEST BENGAL,India
+Mar W2,COD,M-Site,EAST,Post-Ship,194,WEST BENGAL,India
+Mar W2,COD,M-Site,METRO,Post-Ship,212,DELHI,India
+Mar W2,COD,M-Site,METRO,Post-Ship,171,DELHI,India
+Mar W2,COD,M-Site,METRO,Post-Ship,260,DELHI,India
+Mar W2,COD,M-Site,METRO,Post-Ship,450,DELHI,India
+Mar W2,COD,PC,METRO,Post-Ship,186,GUJARAT,India
+Mar W2,COD,PC,METRO,Post-Ship,228,GUJARAT,India
+Mar W2,COD,PC,METRO,Post-Ship,85,GUJARAT,India
+Mar W2,COD,PC,METRO,Post-Ship,142,HARYANA,India
+Mar W2,COD,PC,METRO,Post-Ship,197,HARYANA,India
+Mar W2,COD,PC,METRO,Post-Ship,304,HARYANA,India
+Mar W2,STD,APP,METRO,Post-Ship,139,HARYANA,India
+Mar W2,STD,APP,METRO,Post-Ship,286,KARNATAKA,India
+Mar W2,STD,APP,METRO,Post-Ship,76,KARNATAKA,India
+Mar W2,STD,APP,METRO,Post-Ship,189,KARNATAKA,India
+Mar W2,STD,APP,METRO,Post-Ship,200,KARNATAKA,India
+Mar W2,STD,APP,METRO,Post-Ship,394,MAHARASHTRA,India
+Mar W2,STD,M-Site,METRO,Post-Ship,19,MAHARASHTRA,India
+Mar W2,STD,M-Site,METRO,Post-Ship,49,MAHARASHTRA,India
+Mar W2,STD,M-Site,METRO,Post-Ship,11,MAHARASHTRA,India
+Mar W2,STD,M-Site,METRO,Post-Ship,26,TAMIL NADU,India
+Mar W2,STD,M-Site,METRO,Post-Ship,33,TAMIL NADU,India
+Mar W2,STD,M-Site,METRO,Post-Ship,62,TAMIL NADU,India
+Mar W2,STD,PC,METRO,Post-Ship,59,TAMIL NADU,India
+Mar W2,STD,PC,METRO,Post-Ship,207,TELANGANA,India
+Mar W2,STD,PC,METRO,Post-Ship,22,TELANGANA,India
+Mar W2,STD,PC,METRO,Post-Ship,75,TELANGANA,India
+Mar W2,STD,PC,METRO,Post-Ship,64,TELANGANA,India
+Mar W2,STD,PC,METRO,Post-Ship,97,UTTAR PRADESH,India
+Mar W3,COD,APP,METRO,Post-Ship,1340,UTTAR PRADESH,India
+Mar W3,COD,APP,METRO,Post-Ship,1050,UTTAR PRADESH,India
+Mar W3,COD,APP,METRO,Post-Ship,1303,UTTAR PRADESH,India
+Mar W3,COD,APP,NE,Post-Ship,892,ARUNACHAL PRADESH,India
+Mar W3,COD,APP,NE,Post-Ship,1520,ARUNACHAL PRADESH,India
+Mar W3,COD,APP,NE,Post-Ship,3322,ASSAM,India
+Mar W3,COD,M-Site,NE,Post-Ship,254,ASSAM,India
+Mar W3,COD,M-Site,NE,Post-Ship,223,MANIPUR,India
+Mar W3,COD,M-Site,NE,Post-Ship,232,MANIPUR,India
+Mar W3,COD,M-Site,NE,Post-Ship,229,MEGHALAYA,India
+Mar W3,COD,M-Site,NE,Post-Ship,299,MEGHALAYA,India
+Mar W3,COD,M-Site,NE,Post-Ship,615,MIZORAM,India
+Mar W3,COD,PC,NE,Post-Ship,225,MIZORAM,India
+Mar W3,COD,PC,NE,Post-Ship,286,NAGALAND,India
+Mar W3,COD,PC,NE,Post-Ship,98,NAGALAND,India
+Mar W3,COD,PC,NE,Post-Ship,207,SIKKIM,India
+Mar W3,COD,PC,NE,Post-Ship,256,TRIPURA,India
+Mar W3,COD,PC,NE,Post-Ship,361,TRIPURA,India
+Mar W3,STD,APP,TIER 1,Post-Ship,146,ANDHRA PRADESH,India
+Mar W3,STD,APP,TIER 1,Post-Ship,295,ANDHRA PRADESH,India
+Mar W3,STD,APP,TIER 1,Post-Ship,87,CHANDIGARH,India
+Mar W3,STD,APP,TIER 1,Post-Ship,198,CHANDIGARH,India
+Mar W3,STD,APP,TIER 1,Post-Ship,228,GUJARAT,India
+Mar W3,STD,APP,TIER 1,Post-Ship,496,GUJARAT,India
+Mar W3,STD,M-Site,TIER 1,Post-Ship,25,HARYANA,India
+Mar W3,STD,M-Site,TIER 1,Post-Ship,54,HARYANA,India
+Mar W3,STD,M-Site,TIER 1,Post-Ship,12,KARNATAKA,India
+Mar W3,STD,M-Site,TIER 1,Post-Ship,41,KARNATAKA,India
+Mar W3,STD,M-Site,TIER 1,Post-Ship,29,MADHYA PRADESH,India
+Mar W3,STD,M-Site,TIER 1,Post-Ship,70,MADHYA PRADESH,India
+Mar W3,STD,PC,TIER 1,Post-Ship,46,MAHARASHTRA,India
+Mar W3,STD,PC,TIER 1,Post-Ship,151,MAHARASHTRA,India
+Mar W3,STD,PC,TIER 1,Post-Ship,10,MAHARASHTRA,India
+Mar W3,STD,PC,TIER 1,Post-Ship,88,PONDICHERRY,India
+Mar W3,STD,PC,TIER 1,Post-Ship,61,PONDICHERRY,India
+Mar W3,STD,PC,TIER 1,Post-Ship,109,PUNJAB,India
+Apr W1,COD,APP,TIER 1,Post-Ship,1913,PUNJAB,India
+Apr W1,COD,APP,TIER 1,Post-Ship,1436,RAJASTHAN,India
+Apr W1,COD,APP,TIER 1,Post-Ship,1844,RAJASTHAN,India
+Apr W1,COD,APP,TIER 1,Post-Ship,1275,RAJASTHAN,India
+Apr W1,COD,APP,TIER 1,Post-Ship,2023,TAMIL NADU,India
+Apr W1,COD,APP,TIER 1,Post-Ship,4363,TAMIL NADU,India
+Apr W1,COD,M-Site,TIER 1,Post-Ship,364,TELANGANA,India
+Apr W1,COD,M-Site,TIER 1,Post-Ship,305,UTTAR PRADESH,India
+Apr W1,COD,M-Site,TIER 1,Post-Ship,273,UTTAR PRADESH,India
+Apr W1,COD,M-Site,TIER 1,Post-Ship,301,UTTAR PRADESH,India
+Apr W1,COD,M-Site,TIER 1,Post-Ship,384,UTTARAKHAND,India
+Apr W1,COD,M-Site,TIER 1,Post-Ship,775,UTTARAKHAND,India
+Apr W1,COD,PC,TIER 2,Post-Ship,273,ANDHRA PRADESH,India
+Apr W1,COD,PC,TIER 2,Post-Ship,328,ANDHRA PRADESH,India
+Apr W1,COD,PC,TIER 2,Post-Ship,118,BIHAR,India
+Apr W1,COD,PC,TIER 2,Post-Ship,240,BIHAR,India
+Apr W1,COD,PC,TIER 2,Post-Ship,258,CHANDIGARH,India
+Apr W1,COD,PC,TIER 2,Post-Ship,451,CHHATTISGARH,India
+Apr W1,STD,APP,TIER 2,Post-Ship,166,CHHATTISGARH,India
+Apr W1,STD,APP,TIER 2,Post-Ship,476,DADRA & NAGAR HAVELI,India
+Apr W1,STD,APP,TIER 2,Post-Ship,108,DAMAN & DIU,India
+Apr W1,STD,APP,TIER 2,Post-Ship,291,GOA,India
+Apr W1,STD,APP,TIER 2,Post-Ship,263,GOA,India
+Apr W1,STD,APP,TIER 2,Post-Ship,545,GOA,India
+Apr W1,STD,M-Site,TIER 2,Post-Ship,34,GUJARAT,India
+Apr W1,STD,M-Site,TIER 2,Post-Ship,59,GUJARAT,India
+Apr W1,STD,M-Site,TIER 2,Post-Ship,19,HARYANA,India
+Apr W1,STD,M-Site,TIER 2,Post-Ship,46,HARYANA,India
+Apr W1,STD,M-Site,TIER 2,Post-Ship,43,HIMACHAL PRADESH,India
+Apr W1,STD,M-Site,TIER 2,Post-Ship,90,HIMACHAL PRADESH,India
+Apr W1,STD,PC,TIER 2,Post-Ship,53,JHARKHAND,India
+Apr W1,STD,PC,TIER 2,Post-Ship,251,JHARKHAND,India
+Apr W1,STD,PC,TIER 2,Post-Ship,13,KARNATAKA,India
+Apr W1,STD,PC,TIER 2,Post-Ship,84,KARNATAKA,India
+Apr W1,STD,PC,TIER 2,Post-Ship,75,MADHYA PRADESH,India
+Apr W1,STD,PC,TIER 2,Post-Ship,118,MADHYA PRADESH,India
+Apr W2,COD,APP,TIER 2,Post-Ship,1422,MAHARASHTRA,India
+Apr W2,COD,APP,TIER 2,Post-Ship,1294,MAHARASHTRA,India
+Apr W2,COD,APP,TIER 2,Post-Ship,1269,MAHARASHTRA,India
+Apr W2,COD,APP,TIER 2,Post-Ship,1151,PUNJAB,India
+Apr W2,COD,APP,TIER 2,Post-Ship,1676,PUNJAB,India
+Apr W2,COD,APP,TIER 2,Post-Ship,3361,RAJASTHAN,India
+Apr W2,COD,M-Site,TIER 2,Post-Ship,257,RAJASTHAN,India
+Apr W2,COD,M-Site,TIER 2,Post-Ship,268,RAJASTHAN,India
+Apr W2,COD,M-Site,TIER 2,Post-Ship,174,TAMIL NADU,India
+Apr W2,COD,M-Site,TIER 2,Post-Ship,232,TAMIL NADU,India
+Apr W2,COD,M-Site,TIER 2,Post-Ship,349,TELANGANA,India
+Apr W2,COD,M-Site,TIER 2,Post-Ship,567,UTTAR PRADESH,India
+Apr W2,COD,PC,TIER 2,Post-Ship,195,UTTAR PRADESH,India
+Apr W2,COD,PC,TIER 2,Post-Ship,257,UTTARAKHAND,India
+Apr W2,COD,PC,TIER 2,Post-Ship,84,UTTARAKHAND,India
+Apr W2,COD,PC,TIER 3,Post-Ship,167,ANDHRA PRADESH,India
+Apr W2,COD,PC,TIER 3,Post-Ship,188,ANDHRA PRADESH,India
+Apr W2,COD,PC,TIER 3,Post-Ship,316,BIHAR,India
+Apr W2,STD,APP,TIER 3,Post-Ship,170,BIHAR,India
+Apr W2,STD,APP,TIER 3,Post-Ship,387,CHHATTISGARH,India
+Apr W2,STD,APP,TIER 3,Post-Ship,65,CHHATTISGARH,India
+Apr W2,STD,APP,TIER 3,Post-Ship,232,GOA,India
+Apr W2,STD,APP,TIER 3,Post-Ship,219,GUJARAT,India
+Apr W2,STD,APP,TIER 3,Post-Ship,374,GUJARAT,India
+Apr W2,STD,M-Site,TIER 3,Post-Ship,21,HARYANA,India
+Apr W2,STD,M-Site,TIER 3,Post-Ship,65,HARYANA,India
+Apr W2,STD,M-Site,TIER 3,Post-Ship,8,HARYANA,India
+Apr W2,STD,M-Site,TIER 3,Post-Ship,34,HIMACHAL PRADESH,India
+Apr W2,STD,M-Site,TIER 3,Post-Ship,31,HIMACHAL PRADESH,India
+Apr W2,STD,M-Site,TIER 3,Post-Ship,68,JAMMU & KASHMIR,India
+Apr W2,STD,PC,TIER 3,Post-Ship,42,JAMMU & KASHMIR,India
+Apr W2,STD,PC,TIER 3,Post-Ship,196,JHARKHAND,India
+Apr W2,STD,PC,TIER 3,Post-Ship,9,JHARKHAND,India
+Apr W2,STD,PC,TIER 3,Post-Ship,94,KARNATAKA,India
+Apr W2,STD,PC,TIER 3,Post-Ship,60,KARNATAKA,India
+Apr W2,STD,PC,TIER 3,Post-Ship,79,MADHYA PRADESH,India
+Mar W4,COD,APP,TIER 3,Post-Ship,2643,MADHYA PRADESH,India
+Mar W4,COD,APP,TIER 3,Post-Ship,1851,MAHARASHTRA,India
+Mar W4,COD,APP,TIER 3,Post-Ship,2332,MAHARASHTRA,India
+Mar W4,COD,APP,TIER 3,Post-Ship,1692,MAHARASHTRA,India
+Mar W4,COD,APP,TIER 3,Post-Ship,2706,PONDICHERRY,India
+Mar W4,COD,APP,TIER 3,Post-Ship,6119,PONDICHERRY,India
+Mar W4,COD,M-Site,TIER 3,Post-Ship,510,PUNJAB,India
+Mar W4,COD,M-Site,TIER 3,Post-Ship,389,PUNJAB,India
+Mar W4,COD,M-Site,TIER 3,Post-Ship,352,RAJASTHAN,India
+Mar W4,COD,M-Site,TIER 3,Post-Ship,339,RAJASTHAN,India
+Mar W4,COD,M-Site,TIER 3,Post-Ship,523,TAMIL NADU,India
+Mar W4,COD,M-Site,TIER 3,Post-Ship,1028,TAMIL NADU,India
+Mar W4,COD,PC,TIER 3,Post-Ship,385,TELANGANA,India
+Mar W4,COD,PC,TIER 3,Post-Ship,353,TELANGANA,India
+Mar W4,COD,PC,TIER 3,Post-Ship,164,UTTAR PRADESH,India
+Mar W4,COD,PC,TIER 3,Post-Ship,357,UTTAR PRADESH,India
+Mar W4,COD,PC,TIER 3,Post-Ship,329,UTTARAKHAND,India
+Mar W4,COD,PC,TIER 3,Post-Ship,657,UTTARAKHAND,India
+Mar W4,STD,APP,EAST,Post-Ship,275,ORISSA,India
+Mar W4,STD,APP,EAST,Post-Ship,474,ORISSA,India
+Mar W4,STD,APP,EAST,Post-Ship,138,WEST BENGAL,India
+Mar W4,STD,APP,EAST,Post-Ship,325,WEST BENGAL,India
+Mar W4,STD,APP,METRO,Post-Ship,346,DELHI,India
+Mar W4,STD,APP,METRO,Post-Ship,816,DELHI,India
+Mar W4,STD,M-Site,METRO,Post-Ship,43,DELHI,India
+Mar W4,STD,M-Site,METRO,Post-Ship,53,DELHI,India
+Mar W4,STD,M-Site,METRO,Post-Ship,22,GUJARAT,India
+Mar W4,STD,M-Site,METRO,Post-Ship,40,GUJARAT,India
+Mar W4,STD,M-Site,METRO,Post-Ship,36,GUJARAT,India
+Mar W4,STD,M-Site,METRO,Post-Ship,119,HARYANA,India
+Mar W4,STD,PC,METRO,Post-Ship,75,HARYANA,India
+Mar W4,STD,PC,METRO,Post-Ship,206,HARYANA,India
+Mar W4,STD,PC,METRO,Post-Ship,20,HARYANA,India
+Mar W4,STD,PC,METRO,Post-Ship,114,KARNATAKA,India
+Mar W4,STD,PC,METRO,Post-Ship,107,KARNATAKA,India
+Mar W4,STD,PC,METRO,Post-Ship,166,KARNATAKA,India
